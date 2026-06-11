@@ -1,0 +1,25 @@
+.detail-page {
+  max-width: calc(800px + 48px);
+  padding-top: 32px;
+}
+
+.back-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: var(--type-label-large);
+  font-weight: 500;
+  color: var(--md-on-surface-variant);
+  margin-bottom: 32px;
+  padding: 8px 14px 8px 10px;
+  margin-left: -10px;
+  border-radius: var(--radius-full);
+  transition:
+    background-color var(--motion-fast) var(--easing-standard),
+    color var(--motion-fast) var(--easing-standard);
+}
+
+.back-link:hover {
+  background: var(--md-surface-container);
+  color: var(--md-on-surface);
+}

@@ -1,0 +1,1514 @@
+[
+  {
+    "language": "cs",
+    "text": "Kuj železo, dokud je žhavé.",
+    "meaning": "Příležitost je třeba využít hned, dokud trvá.",
+    "explanation": "Železo lze tvarovat jen rozžhavené — jakmile vychladne, je pozdě. Přísloví vybízí k rozhodnému jednání ve chvíli, kdy jsou okolnosti příznivé.",
+    "example_usage": "„Šéf dnes chválil tvůj projekt — zajdi za ním hned a řekni si o povýšení. Kuj železo, dokud je žhavé.“",
+    "origin": "Pochází z kovářského řemesla; v evropských jazycích doloženo od středověku.",
+    "concepts": [{ "cs": "Příležitost", "en": "Opportunity" }, "Čas"]
+  },
+  {
+    "language": "en",
+    "text": "Strike while the iron is hot.",
+    "meaning": "Seize an opportunity at once, while conditions are favourable.",
+    "explanation": "Iron can only be shaped while it glows; once it cools, the chance is gone. The proverb urges decisive action at the right moment instead of waiting.",
+    "example_usage": "“The investors loved the demo — send them the contract today. Strike while the iron is hot.”",
+    "origin": "From the blacksmith's craft; attested in English since the Middle Ages, including in Chaucer.",
+    "concepts": [{ "cs": "Příležitost", "en": "Opportunity" }, "Čas"]
+  },
+  {
+    "language": "cs",
+    "text": "Opakování je matkou moudrosti.",
+    "meaning": "Znalosti se upevňují opakovaným procvičováním.",
+    "explanation": "Co si člověk zopakuje mnohokrát, to si skutečně osvojí. Přísloví připomíná, že učení není jednorázový akt, ale trpělivé vracení se k témuž.",
+    "example_usage": "„Slovíčka si přeříkává každý večer znovu. Opakování je matkou moudrosti.“",
+    "origin": "Z latinského školského hesla „Repetitio est mater studiorum“.",
+    "concepts": [{ "cs": "Učení", "en": "Learning" }, { "cs": "Vytrvalost", "en": "Perseverance" }]
+  },
+  {
+    "language": "en",
+    "text": "Practice makes perfect.",
+    "meaning": "Repeated exercise leads to mastery.",
+    "explanation": "Skill is not granted but built. Every repetition, even a clumsy one, adds to eventual mastery — the proverb encourages persistence over talent.",
+    "example_usage": "“Her first attempts at the violin were painful to hear, but practice makes perfect — last week she gave her first recital.”",
+    "origin": "Attested in English since the 16th century; echoes the Latin school maxim about repetition.",
+    "concepts": [{ "cs": "Učení", "en": "Learning" }, { "cs": "Vytrvalost", "en": "Perseverance" }]
+  },
+  {
+    "language": "cs",
+    "text": "Vrána k vráně sedá.",
+    "meaning": "Lidé vyhledávají společnost sobě podobných.",
+    "explanation": "Stejně jako ptáci jednoho druhu drží pohromadě, i lidé se sdružují s těmi, kdo mají podobné povahy a zájmy. Podle společnosti se proto dá leccos poznat o člověku.",
+    "example_usage": "„Celá jeho parta jsou samí kutilové — vrána k vráně sedá.“",
+    "origin": "Paralela latinského „Similis simili gaudet“; v českých sbírkách doloženo od raného novověku.",
+    "concepts": ["Přátelství", "Zdání"]
+  },
+  {
+    "language": "en",
+    "text": "Birds of a feather flock together.",
+    "meaning": "People of the same kind seek each other's company.",
+    "explanation": "Just as birds of one species fly in a single flock, people gather with those who share their nature and interests. You can often judge someone by their company.",
+    "example_usage": "“Of course all his friends are chess players too — birds of a feather flock together.”",
+    "origin": "Attested in English since the 16th century; the idea goes back to antiquity.",
+    "concepts": ["Přátelství", "Zdání"]
+  },
+  {
+    "language": "cs",
+    "text": "Darovanému koni na zuby nehleď.",
+    "meaning": "Dar se nemá kritizovat ani přepočítávat.",
+    "explanation": "Stáří a cena koně se poznají podle zubů — kdo si prohlíží zuby darovaného koně, vyčísluje hodnotu daru místo vděčnosti. Přísloví učí přijímat dary s pokorou.",
+    "example_usage": "„Babiččin svetr možná není podle poslední módy, ale darovanému koni na zuby nehleď.“",
+    "origin": "Z latinského rčení svatého Jeronýma (4. století) o neprohlížení zubů darovaného koně.",
+    "concepts": [{ "cs": "Vděčnost", "en": "Gratitude" }, { "cs": "Pokora", "en": "Humility" }]
+  },
+  {
+    "language": "en",
+    "text": "Don't look a gift horse in the mouth.",
+    "meaning": "Do not criticise or appraise a gift.",
+    "explanation": "A horse's age and value show in its teeth — inspecting a gift horse's mouth means pricing a present instead of being thankful for it. Accept gifts with grace.",
+    "example_usage": "“The hand-me-down laptop is a bit slow, but don't look a gift horse in the mouth — it cost you nothing.”",
+    "origin": "From a Latin saying of St Jerome (4th century); in English since the 16th century.",
+    "concepts": [{ "cs": "Vděčnost", "en": "Gratitude" }, { "cs": "Pokora", "en": "Humility" }]
+  },
+  {
+    "language": "cs",
+    "text": "Co oči nevidí, srdce nebolí.",
+    "meaning": "Co člověk neví, to ho netrápí.",
+    "explanation": "Bolest často nepůsobí skutečnost sama, ale vědomí o ní. Přísloví popisuje úlevu nevědomosti — i když zároveň naznačuje, že jde o útěchu poněkud ošidnou.",
+    "example_usage": "„Raději se neptala, kolik oprava auta stála. Co oči nevidí, srdce nebolí.“",
+    "origin": "České lidové přísloví s paralelami v mnoha evropských jazycích.",
+    "concepts": ["Spokojenost", "Zdání"]
+  },
+  {
+    "language": "en",
+    "text": "Ignorance is bliss.",
+    "meaning": "What you do not know cannot trouble you.",
+    "explanation": "Pain often comes not from facts themselves but from knowing them. The proverb captures the comfort of not knowing — while hinting that such comfort is fragile.",
+    "example_usage": "“He never checks how his retirement fund is doing during a downturn. Ignorance is bliss.”",
+    "origin": "From Thomas Gray's poem “Ode on a Distant Prospect of Eton College” (1742).",
+    "concepts": ["Spokojenost", "Zdání"]
+  },
+  {
+    "language": "cs",
+    "text": "Sejde z očí, sejde z mysli.",
+    "meaning": "Na koho nevidíme, na toho snadno zapomeneme.",
+    "explanation": "Vzdálenost oslabuje pouta — vztahy a závazky, které nejsou na očích, postupně blednou. Přísloví střízlivě popisuje, jak nepřítomnost působí na lidskou paměť i city.",
+    "example_usage": "„Po přestěhování se kamarádi ozývali čím dál méně. Sejde z očí, sejde z mysli.“",
+    "origin": "Evropské přísloví doložené už ve středověku; v češtině zdomácnělé z lidové tradice.",
+    "concepts": ["Čas", { "cs": "Láska", "en": "Love" }]
+  },
+  {
+    "language": "en",
+    "text": "Out of sight, out of mind.",
+    "meaning": "What is absent is soon forgotten.",
+    "explanation": "Distance weakens bonds — relationships and duties that are not before our eyes slowly fade. The proverb soberly describes what absence does to memory and affection.",
+    "example_usage": "“Once he moved abroad, the old crowd stopped calling. Out of sight, out of mind.”",
+    "origin": "Attested in English since the 13th century.",
+    "concepts": ["Čas", { "cs": "Láska", "en": "Love" }]
+  },
+  {
+    "language": "cs",
+    "text": "Lež má krátké nohy.",
+    "meaning": "Lež se dlouho neudrží a brzy se prozradí.",
+    "explanation": "Na krátkých nohou se daleko nedojde — lež dříve či později dohoní pravda. Přísloví varuje, že lhaní je krátkozraká strategie s jistým koncem.",
+    "example_usage": "„Tvrdil, že byl na školení, jenže ho viděli na fotbale. Lež má krátké nohy.“",
+    "origin": "Evropské přísloví doložené v němčině i italštině; v češtině běžné od 19. století.",
+    "concepts": [{ "cs": "Poctivost", "en": "Honesty" }, "Důsledky"]
+  },
+  {
+    "language": "en",
+    "text": "The truth will out.",
+    "meaning": "The truth always emerges in the end.",
+    "explanation": "However carefully a lie is built, reality keeps pressing against it until it cracks. The proverb is both a warning to liars and a comfort to the wronged.",
+    "example_usage": "“They covered up the test results for years, but the truth will out — it all surfaced in the audit.”",
+    "origin": "From Shakespeare's The Merchant of Venice (1596).",
+    "concepts": [{ "cs": "Poctivost", "en": "Honesty" }, "Důsledky"]
+  },
+  {
+    "language": "cs",
+    "text": "Láska hory přenáší.",
+    "meaning": "Láska dává sílu překonat i zdánlivě nemožné překážky.",
+    "explanation": "Co se rozumu zdá neproveditelné, to cit dokáže unést i vykonat. Přísloví vyjadřuje víru v mimořádnou sílu opravdové lásky.",
+    "example_usage": "„Tři roky za ní každý víkend jezdil přes půl republiky. Láska hory přenáší.“",
+    "origin": "Obměna biblického obrazu o víře, která hory přenáší (1. Korintským 13,2).",
+    "concepts": [{ "cs": "Láska", "en": "Love" }, { "cs": "Vytrvalost", "en": "Perseverance" }]
+  },
+  {
+    "language": "en",
+    "text": "Love conquers all.",
+    "meaning": "Love overcomes every obstacle.",
+    "explanation": "What reason calls impossible, devotion carries out anyway. The proverb expresses faith in the extraordinary power of genuine love.",
+    "example_usage": "“Their families disapproved and they lived on different continents, yet they married last spring. Love conquers all.”",
+    "origin": "From Virgil's Eclogues — “Omnia vincit Amor” (1st century BC).",
+    "concepts": [{ "cs": "Láska", "en": "Love" }, { "cs": "Vytrvalost", "en": "Perseverance" }]
+  },
+  {
+    "language": "cs",
+    "text": "Komu není rady, tomu není pomoci.",
+    "meaning": "Kdo nedá na dobré rady, tomu nelze pomoci.",
+    "explanation": "Pomoc předpokládá ochotu si pomoci nechat. Přísloví vyjadřuje rezignaci nad člověkem, který všechna varování slyšel — a přesto si jde tvrdohlavě svou cestou.",
+    "example_usage": "„Všichni mu říkali, ať tu smlouvu nepodepisuje. Komu není rady, tomu není pomoci.“",
+    "origin": "České lidové přísloví zapsané ve sbírce F. L. Čelakovského (1852).",
+    "concepts": ["Moudrost", { "cs": "Odpovědnost", "en": "Responsibility" }]
+  },
+  {
+    "language": "en",
+    "text": "You can lead a horse to water, but you cannot make it drink.",
+    "meaning": "You can offer help, but you cannot force anyone to accept it.",
+    "explanation": "Opportunity and advice only work for the willing. The proverb captures the limit of all helping: the final step always belongs to the other person.",
+    "example_usage": "“We paid for the course and arranged his schedule, but he never attended. You can lead a horse to water, but you cannot make it drink.”",
+    "origin": "One of the oldest recorded English proverbs, attested around 1175.",
+    "concepts": ["Moudrost", { "cs": "Odpovědnost", "en": "Responsibility" }]
+  },
+  {
+    "language": "cs",
+    "text": "Kdo uteče, vyhraje.",
+    "meaning": "Včasný ústup z nebezpečí je výhrou, ne porážkou.",
+    "explanation": "Tam, kde hrozí jistá škoda, není ostuda ustoupit — naopak. Přísloví s nadsázkou hájí zdravý rozum proti falešnému hrdinství.",
+    "example_usage": "„Když se hospodská debata změnila v hádku, raději zaplatil a odešel. Kdo uteče, vyhraje.“",
+    "origin": "České lidové rčení; myšlenka strategického ústupu je doložena už v antice.",
+    "concepts": ["Opatrnost", "Moudrost"]
+  },
+  {
+    "language": "en",
+    "text": "He who fights and runs away may live to fight another day.",
+    "meaning": "A timely retreat preserves you for a better chance later.",
+    "explanation": "Where certain loss threatens, withdrawal is not cowardice but strategy. The proverb defends common sense against false heroism.",
+    "example_usage": "“They pulled the product before the lawsuit could ruin them — he who fights and runs away may live to fight another day.”",
+    "origin": "Traced to the Greek comic poet Menander; the English rhyme is attested from the 17th century.",
+    "concepts": ["Opatrnost", "Moudrost"]
+  },
+  {
+    "language": "cs",
+    "text": "Moudřejší ustoupí.",
+    "meaning": "Ustoupit ve sporu je projevem rozumu, ne slabosti.",
+    "explanation": "Vyhrocený spor nemá vítěze — pokračovat v něm umí každý, ukončit ho jen ten rozumnější. Přísloví dodává důstojnost tomu, kdo dokáže první ustoupit.",
+    "example_usage": "„Nemělo cenu se s ním přít o nesmysl, tak to nechala být. Moudřejší ustoupí.“",
+    "origin": "České lidové přísloví; obdobné sentence znala už antická etika.",
+    "concepts": ["Moudrost", { "cs": "Sebeovládání", "en": "Self-control" }]
+  },
+  {
+    "language": "en",
+    "text": "Discretion is the better part of valour.",
+    "meaning": "Knowing when not to fight is the wisest form of courage.",
+    "explanation": "True bravery includes judgement — picking battles worth fighting and walking away from the rest. The proverb dignifies restraint over reckless confrontation.",
+    "example_usage": "“He let the heckler have the last word and went on with his talk. Discretion is the better part of valour.”",
+    "origin": "From Falstaff's line in Shakespeare's Henry IV, Part 1 (1597).",
+    "concepts": ["Moudrost", { "cs": "Sebeovládání", "en": "Self-control" }]
+  },
+  {
+    "language": "cs",
+    "text": "Boží mlýny melou pomalu, ale jistě.",
+    "meaning": "Spravedlnost přichází pozdě, ale nevyhnutelně.",
+    "explanation": "Mlýn pracuje pomalu, ale semele všechno. Přísloví utěšuje, že žádná křivda nezůstane navěky bez odplaty, i když se trest zdá v nedohlednu.",
+    "example_usage": "„Léta podváděl klienty a zdálo se, že mu všechno prochází — letos dostal pět let. Boží mlýny melou pomalu, ale jistě.“",
+    "origin": "Z antické sentence o mlýnech bohů (Sextus Empiricus); v češtině zlidovělo v křesťanské podobě.",
+    "concepts": [{ "cs": "Spravedlnost", "en": "Justice" }, "Trpělivost"]
+  },
+  {
+    "language": "en",
+    "text": "The mills of God grind slowly, yet they grind exceeding small.",
+    "meaning": "Justice may be slow, but it is thorough and inevitable.",
+    "explanation": "A mill works slowly, yet nothing escapes the grinding. The proverb consoles the wronged: no injustice stays unpunished forever, however distant the reckoning seems.",
+    "example_usage": "“Thirty years after the fraud, the evidence finally caught up with him. The mills of God grind slowly, yet they grind exceeding small.”",
+    "origin": "An ancient Greek sentence, known in English through Longfellow's translation of Friedrich von Logau.",
+    "concepts": [{ "cs": "Spravedlnost", "en": "Justice" }, "Trpělivost"]
+  },
+  {
+    "language": "cs",
+    "text": "Práce kvapná, málo platná.",
+    "meaning": "Uspěchaná práce nestojí za nic.",
+    "explanation": "Spěch plodí chyby, které je pak nutné opravovat — výsledek je horší a pomalejší než klidná, soustředěná práce. Přísloví hájí důkladnost proti zbrklosti.",
+    "example_usage": "„Zeď nahodili za jediný den a do měsíce popraskala. Práce kvapná, málo platná.“",
+    "origin": "České lidové přísloví zapsané ve sbírce F. L. Čelakovského (1852).",
+    "concepts": ["Opatrnost", "Píle"]
+  },
+  {
+    "language": "en",
+    "text": "Haste makes waste.",
+    "meaning": "Rushing leads to mistakes and wasted effort.",
+    "explanation": "Hurry breeds errors that must be fixed later — the result is worse and slower than calm, careful work. The proverb defends thoroughness against impatience.",
+    "example_usage": "“He shipped the release without testing and spent the whole weekend fixing it. Haste makes waste.”",
+    "origin": "Attested in English since the 14th century.",
+    "concepts": ["Opatrnost", "Píle"]
+  },
+  {
+    "language": "cs",
+    "text": "Bližší košile nežli kabát.",
+    "meaning": "Vlastní a rodinné zájmy jsou člověku přednější než cizí.",
+    "explanation": "Košile je tělu blíž než kabát — stejně jako rodina a nejbližší jsou člověku přednější než vzdálení. Přísloví střízlivě popisuje přirozené pořadí lidských ohledů.",
+    "example_usage": "„Pomohl by i sousedům, ale nejdřív musel zaplatit synova studia. Bližší košile nežli kabát.“",
+    "origin": "Z latinského „Tunica propior pallio est“ (Plautus, 3.–2. století př. n. l.).",
+    "concepts": ["Rodina", { "cs": "Odpovědnost", "en": "Responsibility" }]
+  },
+  {
+    "language": "en",
+    "text": "Charity begins at home.",
+    "meaning": "Care for your own family before helping others.",
+    "explanation": "Generosity loses its meaning if your own people go wanting. The proverb sets a natural order of obligations — first those entrusted to you, then the wider world.",
+    "example_usage": "“He volunteers every weekend but never visits his own mother. Charity begins at home, you know.”",
+    "origin": "Attested in English since the 14th century, with biblical echoes.",
+    "concepts": ["Rodina", { "cs": "Odpovědnost", "en": "Responsibility" }]
+  },
+  {
+    "language": "cs",
+    "text": "Zvyk je železná košile.",
+    "meaning": "Zažité návyky se mění jen velmi těžko.",
+    "explanation": "Železná košile chrání, ale také svírá a nejde svléknout. Přísloví vystihuje dvojakost zvyku: dává jistotu, ale brání změně, i když by byla k užitku.",
+    "example_usage": "„I po výhře v loterii dál vstával v pět a šel do dílny. Zvyk je železná košile.“",
+    "origin": "Středoevropské přísloví doložené i v němčině; v češtině běžné od 19. století.",
+    "concepts": [{ "cs": "Zvyk", "en": "Habit" }, "Čas"]
+  },
+  {
+    "language": "en",
+    "text": "Old habits die hard.",
+    "meaning": "Long-held habits are very difficult to change.",
+    "explanation": "What we repeat for years becomes part of us, comforting and confining at once. The proverb explains why change is hard even when we sincerely want it.",
+    "example_usage": "“Even after retiring she still woke at five sharp every morning. Old habits die hard.”",
+    "origin": "Attested in English since the 18th century; used by Benjamin Franklin.",
+    "concepts": [{ "cs": "Zvyk", "en": "Habit" }, "Čas"]
+  },
+  {
+    "language": "cs",
+    "text": "Po bitvě je každý generálem.",
+    "meaning": "Dodatečně umí každý říct, co se mělo udělat.",
+    "explanation": "Když je výsledek známý, správné rozhodnutí se zdá samozřejmé. Přísloví ironizuje mudrlanty, kteří soudí jednání druhých z pohodlí dodatečné znalosti.",
+    "example_usage": "„Teď všichni vědí, že se ta firma měla prodat dřív. Po bitvě je každý generálem.“",
+    "origin": "Evropské rčení rozšířené v mnoha jazycích; v češtině zdomácnělé od 19. století.",
+    "concepts": [{ "cs": "Zkušenost", "en": "Experience" }, { "cs": "Pokora", "en": "Humility" }]
+  },
+  {
+    "language": "en",
+    "text": "Hindsight is always twenty-twenty.",
+    "meaning": "Everything looks obvious once you know the outcome.",
+    "explanation": "With the result in hand, the right decision seems self-evident. The proverb pokes at after-the-fact wisdom and reminds judges of past choices to be humble.",
+    "example_usage": "“Sure, now everyone says the stock was obviously overpriced. Hindsight is always twenty-twenty.”",
+    "origin": "American saying from the 20th century, borrowing the optometric term for perfect vision.",
+    "concepts": [{ "cs": "Zkušenost", "en": "Experience" }, { "cs": "Pokora", "en": "Humility" }]
+  },
+  {
+    "language": "cs",
+    "text": "Kdo chce s vlky žíti, musí s nimi výti.",
+    "meaning": "Kdo chce někam patřit, musí se přizpůsobit tamním zvykům.",
+    "explanation": "Ve vlčí smečce se vyje. Přísloví popisuje cenu přijetí do společenství — přizpůsobení jeho pravidlům, ať se nám líbí, nebo ne.",
+    "example_usage": "„V nové práci se naučil chodit na ranní porady, i když je nesnáší. Kdo chce s vlky žíti, musí s nimi výti.“",
+    "origin": "Evropské středověké přísloví s latinskými kořeny.",
+    "concepts": [{ "cs": "Přizpůsobení", "en": "Adaptation" }, "Moudrost"]
+  },
+  {
+    "language": "en",
+    "text": "When in Rome, do as the Romans do.",
+    "meaning": "Adapt to the customs of the place you are in.",
+    "explanation": "Every community has its own rules, and belonging means respecting them. The proverb advises flexibility over insisting on one's own ways abroad.",
+    "example_usage": "“I don't usually take a long lunch, but in Madrid you learn to. When in Rome, do as the Romans do.”",
+    "origin": "Attributed to St Ambrose of Milan (4th century), advising travellers on local fasting customs.",
+    "concepts": [{ "cs": "Přizpůsobení", "en": "Adaptation" }, "Moudrost"]
+  },
+  {
+    "language": "cs",
+    "text": "Kovářova kobyla chodí bosa.",
+    "meaning": "Odborník často zanedbává právě to, co dělá pro druhé.",
+    "explanation": "Kovář kove podkovy celému kraji, jen na vlastní kobylu nemá čas. Přísloví vystihuje paradox řemesla: vlastní potřeby jdou stranou, protože práce pro druhé živí.",
+    "example_usage": "„Je instalatér, a doma mu rok kape kohoutek. Kovářova kobyla chodí bosa.“",
+    "origin": "České lidové přísloví; obdobu o ševcových dětech znají jazyky po celé Evropě.",
+    "concepts": [{ "cs": "Odpovědnost", "en": "Responsibility" }, "Zdání"]
+  },
+  {
+    "language": "en",
+    "text": "The shoemaker's children go barefoot.",
+    "meaning": "Professionals often neglect at home the very thing they provide to others.",
+    "explanation": "The shoemaker shoes the whole town and never finds time for his own children. The proverb captures the paradox of a trade: serving others crowds out one's own needs.",
+    "example_usage": "“She designs websites all day, yet her own portfolio hasn't been updated in years. The shoemaker's children go barefoot.”",
+    "origin": "Attested in English since the 16th century, with parallels across Europe.",
+    "concepts": [{ "cs": "Odpovědnost", "en": "Responsibility" }, "Zdání"]
+  },
+  {
+    "language": "cs",
+    "text": "Kam nechodí slunce, tam chodí lékař.",
+    "meaning": "Nedostatek světla a čerstvého vzduchu škodí zdraví.",
+    "explanation": "Tmavé a nevětrané obydlí svědčí nemocem. Stará zdravotní moudrost připomíná, že slunce, vzduch a pohyb jsou nejlevnější lék.",
+    "example_usage": "„Pracuje od rána do večera v kanceláři bez oken a pořád marodí. Kam nechodí slunce, tam chodí lékař.“",
+    "origin": "Česká lidová zdravotní moudrost, rozšířená i v dalších evropských jazycích.",
+    "concepts": [{ "cs": "Zdraví", "en": "Health" }, "Opatrnost"]
+  },
+  {
+    "language": "en",
+    "text": "An apple a day keeps the doctor away.",
+    "meaning": "Simple daily habits protect your health.",
+    "explanation": "The apple stands for everyday prevention — modest, regular care of the body that spares you the doctor later. Small habits beat large cures.",
+    "example_usage": "“She walks to work and eats her greens — an apple a day keeps the doctor away, as they say.”",
+    "origin": "From a 19th-century Welsh saying, popularised in its current form in the 20th century.",
+    "concepts": [{ "cs": "Zdraví", "en": "Health" }, "Opatrnost"]
+  },
+  {
+    "language": "cs",
+    "text": "Můj dům, můj hrad.",
+    "meaning": "Doma je člověk pánem a nikdo mu do toho nemá co mluvit.",
+    "explanation": "Domov je území svobody a soukromí, kde si každý rozhoduje sám. Přísloví hájí nedotknutelnost soukromého prostoru.",
+    "example_usage": "„Sousedům se nelíbí, jakou má barvu plotu, ale jemu je to jedno. Můj dům, můj hrad.“",
+    "origin": "Z anglické právní zásady „An Englishman's home is his castle“ (Edward Coke, 17. století); v češtině zlidovělé.",
+    "concepts": [{ "cs": "Domov", "en": "Home" }, { "cs": "Svoboda", "en": "Freedom" }]
+  },
+  {
+    "language": "en",
+    "text": "A man's home is his castle.",
+    "meaning": "At home, everyone is master of their own affairs.",
+    "explanation": "Home is the territory of freedom and privacy where each person rules alone. The proverb defends the sanctity of one's private space.",
+    "example_usage": "“The neighbours keep commenting on his overgrown garden, but he just shrugs — a man's home is his castle.”",
+    "origin": "From the legal maxim recorded by Sir Edward Coke in the 17th century.",
+    "concepts": [{ "cs": "Domov", "en": "Home" }, { "cs": "Svoboda", "en": "Freedom" }]
+  },
+  {
+    "language": "cs",
+    "text": "Malá ryba, taky ryba.",
+    "meaning": "I drobný zisk má svou cenu.",
+    "explanation": "Kdo pohrdá malými úlovky, často zůstane s prázdnou. Přísloví učí vážit si i skromných výsledků — sčítají se.",
+    "example_usage": "„Brigáda za pár stovek týdně není sláva, ale malá ryba, taky ryba.“",
+    "origin": "České lidové přísloví z rybářského prostředí.",
+    "concepts": ["Spokojenost", { "cs": "Střídmost", "en": "Moderation" }]
+  },
+  {
+    "language": "en",
+    "text": "Half a loaf is better than none.",
+    "meaning": "A partial gain is better than nothing at all.",
+    "explanation": "Scorning a modest result often leaves you empty-handed. The proverb teaches gratitude for partial success instead of all-or-nothing pride.",
+    "example_usage": "“They didn't fund the whole project, just the first phase — but half a loaf is better than none.”",
+    "origin": "Recorded in John Heywood's collection of English proverbs (1546).",
+    "concepts": ["Spokojenost", { "cs": "Střídmost", "en": "Moderation" }]
+  },
+  {
+    "language": "cs",
+    "text": "Špinavé prádlo se pere doma.",
+    "meaning": "Rodinné spory se nemají vynášet na veřejnost.",
+    "explanation": "Neshody patří za zavřené dveře — jejich zveřejňování škodí všem zúčastněným i dobrému jménu rodiny. Přísloví chrání soukromí společenství.",
+    "example_usage": "„O sporu s bratrem na oslavě nemluvila. Špinavé prádlo se pere doma.“",
+    "origin": "Z francouzského rčení o praní špinavého prádla v rodině, rozšířeného v 19. století.",
+    "concepts": ["Rodina", { "cs": "Pověst", "en": "Reputation" }]
+  },
+  {
+    "language": "en",
+    "text": "Don't wash your dirty linen in public.",
+    "meaning": "Keep private disputes private.",
+    "explanation": "Quarrels belong behind closed doors — airing them harms everyone involved and the family's good name. The proverb protects the privacy of a community.",
+    "example_usage": "“Arguing about the inheritance in the comment section? Don't wash your dirty linen in public.”",
+    "origin": "From a French saying popularised in the 19th century.",
+    "concepts": ["Rodina", { "cs": "Pověst", "en": "Reputation" }]
+  },
+  {
+    "language": "cs",
+    "text": "Nebuď zvědavý, budeš brzy starý.",
+    "meaning": "Přílišná zvědavost se nevyplácí.",
+    "explanation": "Žertovná pohrůžka stárnutím krotí dotěrné vyptávání. Přísloví připomíná, že některé věci nám do života nepatří — a slídění mívá následky.",
+    "example_usage": "„Pořád se vyptával, co bude k narozeninám. Nebuď zvědavý, budeš brzy starý!“",
+    "origin": "České lidové výchovné rčení.",
+    "concepts": ["Opatrnost", { "cs": "Sebeovládání", "en": "Self-control" }]
+  },
+  {
+    "language": "en",
+    "text": "Curiosity killed the cat.",
+    "meaning": "Prying into things that do not concern you brings trouble.",
+    "explanation": "Even a creature with nine lives can lose them all to poking around. The proverb warns that some doors are better left unopened.",
+    "example_usage": "“He kept digging through files that weren't his business and got himself fired. Curiosity killed the cat.”",
+    "origin": "From the 16th-century English saying “care killed the cat”; the modern form is attested from the 19th century.",
+    "concepts": ["Opatrnost", { "cs": "Sebeovládání", "en": "Self-control" }]
+  },
+  {
+    "language": "cs",
+    "text": "Nehas, co tě nepálí.",
+    "meaning": "Nepleť se do věcí, které se tě netýkají.",
+    "explanation": "Kdo hasí cizí ohně, snadno se sám spálí. Přísloví radí zdrženlivost — ne každý problém volá právě po našem zásahu.",
+    "example_usage": "„Chtěl rozsoudit hádku cizích lidí ve frontě a oba se obořili na něj. Nehas, co tě nepálí.“",
+    "origin": "České lidové přísloví zapsané ve sbírce F. L. Čelakovského (1852).",
+    "concepts": ["Opatrnost", { "cs": "Sebeovládání", "en": "Self-control" }]
+  },
+  {
+    "language": "en",
+    "text": "Let sleeping dogs lie.",
+    "meaning": "Do not stir up trouble that is currently dormant.",
+    "explanation": "A sleeping dog harms no one — wake it and you may get bitten. The proverb advises leaving old conflicts and risky subjects undisturbed.",
+    "example_usage": "“I wouldn't reopen that old dispute with the landlord. Let sleeping dogs lie.”",
+    "origin": "Attested in English since Chaucer (14th century).",
+    "concepts": ["Opatrnost", { "cs": "Sebeovládání", "en": "Self-control" }]
+  },
+  {
+    "language": "cs",
+    "text": "Nekupuj zajíce v pytli.",
+    "meaning": "Nepořizuj nic, co sis předem neprohlédl.",
+    "explanation": "Na středověkých trzích šidili kupce tím, že místo zajíce strčili do pytle kočku. Přísloví dodnes varuje před koupí i dohodou naslepo.",
+    "example_usage": "„Auto chtěl prodat bez prohlídky, jen podle fotek. Nekupuj zajíce v pytli.“",
+    "origin": "Ze středověkého tržního šizení; rčení o zajíci či kočce v pytli zná celá Evropa.",
+    "concepts": ["Opatrnost", { "cs": "Peníze", "en": "Money" }]
+  },
+  {
+    "language": "en",
+    "text": "Let the buyer beware.",
+    "meaning": "It is the buyer's responsibility to inspect before purchasing.",
+    "explanation": "The seller praises, the buyer checks. The proverb — a legal maxim at heart — reminds you that due diligence cannot be delegated.",
+    "example_usage": "“The listing said ‘mint condition' and he wired the money without a viewing. Let the buyer beware.”",
+    "origin": "From the Latin legal maxim “caveat emptor”.",
+    "concepts": ["Opatrnost", { "cs": "Peníze", "en": "Money" }]
+  },
+  {
+    "language": "cs",
+    "text": "Neptej se starého, ptej se zkušeného.",
+    "meaning": "Rozhoduje zkušenost, ne věk.",
+    "explanation": "Léta sama o sobě moudrost nezaručují — tu dává jen prožité a promyšlené. Přísloví radí hledat radu u toho, kdo věc skutečně zažil.",
+    "example_usage": "„O horách mu víc než dědeček poradil mladý horský vůdce. Neptej se starého, ptej se zkušeného.“",
+    "origin": "České lidové přísloví.",
+    "concepts": [{ "cs": "Zkušenost", "en": "Experience" }, "Moudrost"]
+  },
+  {
+    "language": "en",
+    "text": "Experience is the best teacher.",
+    "meaning": "We learn most from what we live through.",
+    "explanation": "Books and advice prepare, but living through a thing instructs. The proverb values lessons earned first-hand above all secondhand knowledge.",
+    "example_usage": "“No course taught him as much as his first failed startup. Experience is the best teacher.”",
+    "origin": "From the Latin “experientia docet” (Tacitus, 1st century).",
+    "concepts": [{ "cs": "Zkušenost", "en": "Experience" }, "Moudrost"]
+  },
+  {
+    "language": "cs",
+    "text": "Pes, který štěká, nekouše.",
+    "meaning": "Kdo nejvíc vyhrožuje, bývá nejméně nebezpečný.",
+    "explanation": "Hlasité výhrůžky často zakrývají slabost — skutečné nebezpečí přichází tiše. Přísloví učí nebát se křiklounů a nepodceňovat mlčenlivé.",
+    "example_usage": "„Vyhrožoval soudem už potřetí a nikdy nic nepodal. Pes, který štěká, nekouše.“",
+    "origin": "Z latinské sentence o bázlivých psech, kteří štěkají nejhlasitěji (Curtius Rufus).",
+    "concepts": ["Zdání", { "cs": "Strach", "en": "Fear" }]
+  },
+  {
+    "language": "en",
+    "text": "Barking dogs seldom bite.",
+    "meaning": "Those who threaten the loudest are rarely dangerous.",
+    "explanation": "Loud threats often mask weakness — real danger tends to come quietly. The proverb teaches you not to fear the noisy nor underestimate the silent.",
+    "example_usage": "“He's been threatening to sue for years and never filed a thing. Barking dogs seldom bite.”",
+    "origin": "Attested in English since the 16th century, from a Latin sentence about timid dogs barking loudest.",
+    "concepts": ["Zdání", { "cs": "Strach", "en": "Fear" }]
+  },
+  {
+    "language": "cs",
+    "text": "Lépe pozdě než nikdy.",
+    "meaning": "I opožděný čin je lepší než žádný.",
+    "explanation": "Zpoždění je vada, ale rezignace je horší. Přísloví dodává odvahu dotáhnout věci i tehdy, když už správný čas minul.",
+    "example_usage": "„Omluvil se až po letech, ale omluvil se. Lépe pozdě než nikdy.“",
+    "origin": "Z latinského „Potius sero quam numquam“ (Livius, 1. století př. n. l.).",
+    "concepts": ["Čas", "Spokojenost"]
+  },
+  {
+    "language": "en",
+    "text": "Better late than never.",
+    "meaning": "A late action is better than none at all.",
+    "explanation": "Delay is a flaw, but giving up is worse. The proverb encourages finishing things even after the right moment has passed.",
+    "example_usage": "“He finally paid back the loan after three years. Better late than never.”",
+    "origin": "From the Latin of Livy (1st century BC); in English since the 14th century.",
+    "concepts": ["Čas", "Spokojenost"]
+  },
+  {
+    "language": "cs",
+    "text": "Prázdný sud nejvíce duní.",
+    "meaning": "Nejhlasitěji mluví ti, kdo toho vědí nejméně.",
+    "explanation": "Plný sud zní tlumeně, prázdný burácí. Přísloví si všímá, že hlučné sebevědomí často zakrývá prázdnotu — a skutečná znalost bývá tichá.",
+    "example_usage": "„Na poradě mluvil nejvíc ten, kdo na projektu neudělal nic. Prázdný sud nejvíce duní.“",
+    "origin": "Evropské přísloví s antickými kořeny, v češtině zlidovělé.",
+    "concepts": [{ "cs": "Pýcha", "en": "Pride" }, { "cs": "Řeč", "en": "Speech" }]
+  },
+  {
+    "language": "en",
+    "text": "Empty vessels make the most noise.",
+    "meaning": "The least knowledgeable people talk the loudest.",
+    "explanation": "A full barrel sounds dull, an empty one booms. The proverb observes that loud confidence often covers emptiness — and real knowledge tends to be quiet.",
+    "example_usage": "“He dominated the whole meeting without having read the report. Empty vessels make the most noise.”",
+    "origin": "Attested in English since the 15th century (John Lydgate).",
+    "concepts": [{ "cs": "Pýcha", "en": "Pride" }, { "cs": "Řeč", "en": "Speech" }]
+  },
+  {
+    "language": "cs",
+    "text": "Pýcha předchází pád.",
+    "meaning": "Domýšlivost vede ke zkáze.",
+    "explanation": "Kdo se povyšuje, přestává vidět vlastní slabiny — a právě ty ho srazí. Přísloví varuje, že sebejistota bez pokory je předzvěstí pohromy.",
+    "example_usage": "„Tvrdil, že konkurence je k smíchu, a do roka zkrachoval. Pýcha předchází pád.“",
+    "origin": "Biblické přísloví (Kniha přísloví 16,18).",
+    "concepts": [{ "cs": "Pýcha", "en": "Pride" }, "Důsledky"]
+  },
+  {
+    "language": "en",
+    "text": "Pride comes before a fall.",
+    "meaning": "Arrogance leads to ruin.",
+    "explanation": "Those who exalt themselves stop seeing their own weaknesses — and precisely those bring them down. The proverb warns that confidence without humility precedes disaster.",
+    "example_usage": "“He called the competition a joke and was bankrupt within a year. Pride comes before a fall.”",
+    "origin": "From the Book of Proverbs 16:18.",
+    "concepts": [{ "cs": "Pýcha", "en": "Pride" }, "Důsledky"]
+  },
+  {
+    "language": "cs",
+    "text": "S chutí do toho a půl je hotovo.",
+    "meaning": "Odhodlaný začátek je polovina úspěchu.",
+    "explanation": "Největší překážkou bývá vlastní otálení. Kdo se do práce pustí s vervou, zjistí, že úkol je menší, než se zdál.",
+    "example_usage": "„Úklid garáže odkládal měsíce — pak se do něj pustil a za odpoledne bylo hotovo. S chutí do toho a půl je hotovo.“",
+    "origin": "České lidové rčení; myšlenku dobře započatého díla znal už Horatius.",
+    "concepts": ["Píle", { "cs": "Odvaha", "en": "Courage" }]
+  },
+  {
+    "language": "en",
+    "text": "Well begun is half done.",
+    "meaning": "A determined start is half the success.",
+    "explanation": "The biggest obstacle is usually our own hesitation. Whoever sets to work with spirit finds the task smaller than it seemed.",
+    "example_usage": "“Once she finally wrote the first chapter, the rest of the thesis followed quickly. Well begun is half done.”",
+    "origin": "From Aristotle and Horace — “Dimidium facti, qui coepit, habet”.",
+    "concepts": ["Píle", { "cs": "Odvaha", "en": "Courage" }]
+  },
+  {
+    "language": "cs",
+    "text": "S poctivostí nejdál dojdeš.",
+    "meaning": "Poctivé jednání se nakonec vyplatí nejvíc.",
+    "explanation": "Podvod přináší rychlý zisk a dlouhé následky; poctivost je pomalá, ale nese daleko. Přísloví hájí čestnost jako nejlepší dlouhodobou strategii.",
+    "example_usage": "„Vrátil zákazníkovi přeplatek, o kterém nikdo nevěděl — a ten u něj od té doby nakupuje. S poctivostí nejdál dojdeš.“",
+    "origin": "České lidové přísloví zapsané ve sbírce F. L. Čelakovského (1852).",
+    "concepts": [{ "cs": "Poctivost", "en": "Honesty" }, "Moudrost"]
+  },
+  {
+    "language": "en",
+    "text": "Honesty is the best policy.",
+    "meaning": "Honest dealing pays off best in the long run.",
+    "explanation": "Deceit brings quick gains and long consequences; honesty is slow but carries far. The proverb defends integrity as the soundest long-term strategy.",
+    "example_usage": "“He told the client about the defect before they found it themselves — and kept the account for life. Honesty is the best policy.”",
+    "origin": "Attested in English since the 16th century; popularised by Benjamin Franklin.",
+    "concepts": [{ "cs": "Poctivost", "en": "Honesty" }, "Moudrost"]
+  },
+  {
+    "language": "cs",
+    "text": "Sdílená bolest, poloviční bolest; sdílená radost, dvojnásobná radost.",
+    "meaning": "Sdílení trápení ulevuje a sdílení radosti ji násobí.",
+    "explanation": "Co člověk nese sám, tíží dvojnásob. Přísloví vystihuje sílu blízkosti: starost vyslovená příteli se zmenší, radost sdělená se rozroste.",
+    "example_usage": "„Teprve když o nemoci řekla přátelům, přestala ji dusit. Sdílená bolest, poloviční bolest.“",
+    "origin": "Evropské přísloví doložené v němčině i severských jazycích.",
+    "concepts": ["Přátelství", { "cs": "Spolupráce", "en": "Cooperation" }]
+  },
+  {
+    "language": "en",
+    "text": "A problem shared is a problem halved.",
+    "meaning": "Talking a problem through with someone makes it lighter.",
+    "explanation": "What you carry alone weighs double. The proverb captures the power of closeness: a worry spoken to a friend shrinks, a joy shared grows.",
+    "example_usage": "“Tell your sister about the debt — a problem shared is a problem halved.”",
+    "origin": "English saying attested from the 20th century, with much older European parallels.",
+    "concepts": ["Přátelství", { "cs": "Spolupráce", "en": "Cooperation" }]
+  },
+  {
+    "language": "cs",
+    "text": "Tonoucí se stébla chytá.",
+    "meaning": "Zoufalý člověk se upíná i k nepatrné naději.",
+    "explanation": "Stéblo trávy plavce neunese — a přece po něm sáhne. Přísloví s porozuměním i varováním popisuje, jak nouze zbavuje soudnosti.",
+    "example_usage": "„Před krachem firmy uvěřil i pochybnému investorovi. Tonoucí se stébla chytá.“",
+    "origin": "Evropské přísloví s latinskými kořeny; v angličtině je doložil Thomas More (16. století).",
+    "concepts": [{ "cs": "Naděje", "en": "Hope" }, { "cs": "Strach", "en": "Fear" }]
+  },
+  {
+    "language": "en",
+    "text": "A drowning man clutches at a straw.",
+    "meaning": "A desperate person grasps at even the faintest hope.",
+    "explanation": "A straw cannot hold a swimmer — and yet he reaches for it. The proverb describes, with both sympathy and warning, how desperation clouds judgement.",
+    "example_usage": "“In the last weeks before bankruptcy he trusted even that shady investor. A drowning man clutches at a straw.”",
+    "origin": "Attested in English since Thomas More (16th century).",
+    "concepts": [{ "cs": "Naděje", "en": "Hope" }, { "cs": "Strach", "en": "Fear" }]
+  },
+  {
+    "language": "cs",
+    "text": "Ve dvou se to lépe táhne.",
+    "meaning": "Společná práce je snazší než osamělá.",
+    "explanation": "Břemeno rozložené mezi dva netíží ani polovinou. Přísloví oslavuje spolupráci a blízkost — od práce po život sám.",
+    "example_usage": "„Stěhování zvládli za den, protože si vzájemně pomohli. Ve dvou se to lépe táhne.“",
+    "origin": "České lidové přísloví, proslavené i Werichovou písní.",
+    "concepts": [{ "cs": "Spolupráce", "en": "Cooperation" }, "Přátelství"]
+  },
+  {
+    "language": "en",
+    "text": "Many hands make light work.",
+    "meaning": "Work shared among many becomes easy.",
+    "explanation": "A burden split between helpers weighs little on each. The proverb celebrates cooperation — the simplest technology humans ever invented.",
+    "example_usage": "“The whole street showed up to clear the fallen tree, and it was gone within the hour. Many hands make light work.”",
+    "origin": "Recorded in John Heywood's collection of English proverbs (1546).",
+    "concepts": [{ "cs": "Spolupráce", "en": "Cooperation" }, "Přátelství"]
+  },
+  {
+    "language": "cs",
+    "text": "Víc hlav víc ví.",
+    "meaning": "Společné uvažování vede k lepším řešením.",
+    "explanation": "Každý vidí kus problému, který ostatním uniká. Přísloví doporučuje radit se — moudrost skupiny bývá větší než moudrost nejchytřejšího jednotlivce.",
+    "example_usage": "„Na chybu v plánech přišli až společně u jednoho stolu. Víc hlav víc ví.“",
+    "origin": "České lidové přísloví.",
+    "concepts": [{ "cs": "Spolupráce", "en": "Cooperation" }, "Moudrost"]
+  },
+  {
+    "language": "en",
+    "text": "Two heads are better than one.",
+    "meaning": "Thinking together produces better solutions.",
+    "explanation": "Each person sees a part of the problem the other misses. The proverb recommends consultation — a group's wisdom usually beats the cleverest individual's.",
+    "example_usage": "“I'd been stuck on the bug for hours; she spotted it in five minutes. Two heads are better than one.”",
+    "origin": "Attested in English since the 16th century, echoing the Book of Ecclesiastes.",
+    "concepts": [{ "cs": "Spolupráce", "en": "Cooperation" }, "Moudrost"]
+  },
+  {
+    "language": "cs",
+    "text": "Odvážnému štěstí přeje.",
+    "meaning": "Štěstí stojí při těch, kdo se odváží jednat.",
+    "explanation": "Příležitosti se otvírají tomu, kdo do nich vstoupí — váhavému zůstanou zavřené. Přísloví povzbuzuje k riskování tam, kde opatrnost nic nepřináší.",
+    "example_usage": "„Přihlásila se na konkurz, na který si nikdo z ročníku netroufl, a roli dostala. Odvážnému štěstí přeje.“",
+    "origin": "Z latinského „Audentes fortuna iuvat“ (Vergilius, Aeneida).",
+    "concepts": [{ "cs": "Odvaha", "en": "Courage" }, { "cs": "Štěstí", "en": "Luck" }]
+  },
+  {
+    "language": "en",
+    "text": "Fortune favours the bold.",
+    "meaning": "Luck sides with those who dare to act.",
+    "explanation": "Opportunities open to those who step into them — to the hesitant they stay shut. The proverb encourages risk where caution earns nothing.",
+    "example_usage": "“She pitched her idea straight to the CEO in the lift — and got the funding. Fortune favours the bold.”",
+    "origin": "From Virgil's Aeneid — “Audentes fortuna iuvat”.",
+    "concepts": [{ "cs": "Odvaha", "en": "Courage" }, { "cs": "Štěstí", "en": "Luck" }]
+  },
+  {
+    "language": "cs",
+    "text": "Zakázané ovoce chutná nejlépe.",
+    "meaning": "Co je zakázané, láká nejvíc.",
+    "explanation": "Zákaz dodává věcem kouzlo, které by samy o sobě neměly. Přísloví popisuje odvěkou lidskou přitažlivost k nedovolenému — a tím i past, kterou si zákazy samy chystají.",
+    "example_usage": "„Jakmile rodiče zakázali seriál, děti ho chtěly vidět dvojnásob. Zakázané ovoce chutná nejlépe.“",
+    "origin": "Z biblického příběhu o stromu poznání (Genesis).",
+    "concepts": [{ "cs": "Sebeovládání", "en": "Self-control" }, { "cs": "Závist", "en": "Envy" }]
+  },
+  {
+    "language": "en",
+    "text": "Forbidden fruit is the sweetest.",
+    "meaning": "What is forbidden attracts the most.",
+    "explanation": "Prohibition lends things a charm they would not have on their own. The proverb describes the timeless pull of the off-limits — and the trap that every ban sets for itself.",
+    "example_usage": "“The moment the book was banned, everyone suddenly wanted to read it. Forbidden fruit is the sweetest.”",
+    "origin": "From the biblical story of the tree of knowledge (Genesis); proverbial in English since the 17th century.",
+    "concepts": [{ "cs": "Sebeovládání", "en": "Self-control" }, { "cs": "Závist", "en": "Envy" }]
+  },
+  {
+    "language": "cs",
+    "text": "Zdání klame.",
+    "meaning": "První dojem často neodpovídá skutečnosti.",
+    "explanation": "Povrch věcí bývá upravený právě proto, aby zakryl, co je pod ním. Přísloví nabádá soudit až po bližším poznání — věci, nabídky i lidi.",
+    "example_usage": "„Působil jako největší morous z baráku, a nakonec jí každý den nosil nákupy. Zdání klame.“",
+    "origin": "Z latinské sentence „Fallaces sunt rerum species“ (Seneca).",
+    "concepts": ["Zdání", "Opatrnost"]
+  },
+  {
+    "language": "en",
+    "text": "Never judge a book by its cover.",
+    "meaning": "First impressions often mislead.",
+    "explanation": "Surfaces are dressed up precisely to hide what lies beneath. The proverb urges you to judge things, offers and people only after a closer look.",
+    "example_usage": "“The scruffy little restaurant turned out to serve the best food in town. Never judge a book by its cover.”",
+    "origin": "English saying attested from the 19th century, popularised in the 20th.",
+    "concepts": ["Zdání", "Opatrnost"]
+  },
+  {
+    "language": "cs",
+    "text": "Jedna vlaštovka jaro nedělá.",
+    "meaning": "Jediný dobrý znak ještě neznamená obrat k lepšímu.",
+    "explanation": "Vlaštovka se může vrátit i do mrazu. Přísloví krotí předčasný optimismus — na potvrzení změny je třeba víc než jeden signál.",
+    "example_usage": "„Po jednom ziskovém měsíci hned plánoval expanzi. Jedna vlaštovka jaro nedělá.“",
+    "origin": "Z Aristotelovy Etiky Níkomachovy (4. století př. n. l.).",
+    "concepts": ["Opatrnost", "Zdání"]
+  },
+  {
+    "language": "en",
+    "text": "One swallow does not make a summer.",
+    "meaning": "A single good sign does not prove a lasting change.",
+    "explanation": "A swallow may return into frost. The proverb tempers premature optimism — confirming a trend takes more than one signal.",
+    "example_usage": "“One profitable quarter and he's already planning to expand. One swallow does not make a summer.”",
+    "origin": "From Aristotle's Nicomachean Ethics (4th century BC).",
+    "concepts": ["Opatrnost", "Zdání"]
+  },
+  {
+    "language": "cs",
+    "text": "Jaký otec, takový syn.",
+    "meaning": "Děti přejímají vlastnosti svých rodičů.",
+    "explanation": "Vzory z domova působí silněji než výchovné řeči. Přísloví konstatuje, že povahu i návyky dětí utváří především příklad rodičů.",
+    "example_usage": "„Otec celý život pomáhal sousedům a kluk teď dělá dobrovolníka. Jaký otec, takový syn.“",
+    "origin": "Z latinského „Qualis pater, talis filius“.",
+    "concepts": ["Rodina"]
+  },
+  {
+    "language": "en",
+    "text": "Like father, like son.",
+    "meaning": "Children take after their parents.",
+    "explanation": "The example set at home works more strongly than any lecture. The proverb states that children's character and habits are shaped above all by their parents' model.",
+    "example_usage": "“His dad rebuilt engines every weekend, and now the boy spends his evenings in the garage too. Like father, like son.”",
+    "origin": "From the Latin “Qualis pater, talis filius”; in English since the 14th century.",
+    "concepts": ["Rodina"]
+  },
+  {
+    "language": "cs",
+    "text": "Kdo se směje naposled, ten se směje nejlépe.",
+    "meaning": "Rozhoduje konečný výsledek, ne průběžné vítězství.",
+    "explanation": "Předčasná škodolibost se ráda obrací proti svému původci. Přísloví radí zdržet se posměchu, dokud není dohráno.",
+    "example_usage": "„Celý zápas se soupeři posmívali — a prohráli v nastavení. Kdo se směje naposled, ten se směje nejlépe.“",
+    "origin": "Evropské přísloví doložené od 16. století.",
+    "concepts": ["Trpělivost", "Důsledky"]
+  },
+  {
+    "language": "en",
+    "text": "He who laughs last laughs longest.",
+    "meaning": "The final outcome matters, not who is ahead now.",
+    "explanation": "Premature gloating likes to turn on its author. The proverb advises withholding mockery until the game is truly over.",
+    "example_usage": "“They mocked his ‘boring' strategy all season — until he took the title. He who laughs last laughs longest.”",
+    "origin": "Attested in English since the 16th century.",
+    "concepts": ["Trpělivost", "Důsledky"]
+  },
+  {
+    "language": "cs",
+    "text": "I mistr tesař se někdy utne.",
+    "meaning": "Chybu udělá i ten nejzkušenější.",
+    "explanation": "Sekera ujede i ruce, která s ní pracuje celý život. Přísloví omlouvá chyby mistrů — a připomíná, že neomylnost nemá nikdo.",
+    "example_usage": "„Účetní s třicetiletou praxí přehlédla překlep v miliónové faktuře. I mistr tesař se někdy utne.“",
+    "origin": "České řemeslnické rčení.",
+    "concepts": [{ "cs": "Pokora", "en": "Humility" }, { "cs": "Zkušenost", "en": "Experience" }]
+  },
+  {
+    "language": "en",
+    "text": "To err is human.",
+    "meaning": "Everyone makes mistakes.",
+    "explanation": "Error is not a failure of character but a feature of being human. The proverb asks for humility about our own slips and mercy toward other people's.",
+    "example_usage": "“She sent the report to the wrong client — it happens. To err is human.”",
+    "origin": "From the Latin “Errare humanum est”; famous in English through Alexander Pope's line (1711).",
+    "concepts": [{ "cs": "Pokora", "en": "Humility" }, { "cs": "Zkušenost", "en": "Experience" }]
+  },
+  {
+    "language": "cs",
+    "text": "Láska prochází žaludkem.",
+    "meaning": "Dobré jídlo posiluje náklonnost.",
+    "explanation": "Společný stůl je nejstarší jazyk péče — kdo vaří s láskou, vyznává ji beze slov. Přísloví s úsměvem spojuje cit a kuchyni.",
+    "example_usage": "„Získal ji nedělními obědy u plotny. Láska prochází žaludkem.“",
+    "origin": "Z německého „Liebe geht durch den Magen“; v češtině zdomácnělé.",
+    "concepts": [{ "cs": "Láska", "en": "Love" }, { "cs": "Domov", "en": "Home" }]
+  },
+  {
+    "language": "en",
+    "text": "The way to a man's heart is through his stomach.",
+    "meaning": "Good food wins affection.",
+    "explanation": "The shared table is the oldest language of care — to cook for someone is to say it without words. The proverb playfully joins romance and the kitchen.",
+    "example_usage": "“She won him over with Sunday roasts. The way to a man's heart is through his stomach.”",
+    "origin": "English saying attested from the 19th century.",
+    "concepts": [{ "cs": "Láska", "en": "Love" }, { "cs": "Domov", "en": "Home" }]
+  },
+  {
+    "language": "cs",
+    "text": "Všude dobře, doma nejlépe.",
+    "meaning": "Domov je nenahraditelný.",
+    "explanation": "Cesty obohacují, ale teprve návrat ukáže, kde člověk skutečně patří. Přísloví vyznává tichou hodnotu domova nad všemi krásami světa.",
+    "example_usage": "„Po třech týdnech u moře si s úlevou odemkla vlastní byt. Všude dobře, doma nejlépe.“",
+    "origin": "České lidové přísloví; obdobu „East or west, home is best“ zná celá Evropa.",
+    "concepts": [{ "cs": "Domov", "en": "Home" }, "Spokojenost"]
+  },
+  {
+    "language": "en",
+    "text": "There is no place like home.",
+    "meaning": "Home is irreplaceable.",
+    "explanation": "Travel enriches, but only the return shows where you truly belong. The proverb confesses the quiet value of home above all the world's wonders.",
+    "example_usage": "“The hotel was five stars, but unlocking her own front door felt better. There is no place like home.”",
+    "origin": "From the song “Home, Sweet Home” (1823); the sentiment is far older.",
+    "concepts": [{ "cs": "Domov", "en": "Home" }, "Spokojenost"]
+  },
+  {
+    "language": "cs",
+    "text": "Na boha se spolehni, ale sám se přičiň.",
+    "meaning": "Naděje nezbavuje povinnosti jednat.",
+    "explanation": "Důvěra v dobrý konec není program — je to doprovod vlastního úsilí. Přísloví spojuje víru s pracovitostí a odmítá pasivní čekání na zázrak.",
+    "example_usage": "„Modlil se za úrodu, ale zavlažování postavil sám. Na boha se spolehni, ale sám se přičiň.“",
+    "origin": "České lidové přísloví s biblickým pozadím.",
+    "concepts": ["Píle", { "cs": "Odpovědnost", "en": "Responsibility" }]
+  },
+  {
+    "language": "en",
+    "text": "God helps those who help themselves.",
+    "meaning": "Hope does not replace effort.",
+    "explanation": "Trust in a good outcome is not a plan — it is the companion of one's own work. The proverb joins faith with industry and rejects waiting passively for a miracle.",
+    "example_usage": "“He prayed for a job but also sent out fifty applications. God helps those who help themselves.”",
+    "origin": "From Aesop's fables; the English form was popularised by Algernon Sidney and Benjamin Franklin.",
+    "concepts": ["Píle", { "cs": "Odpovědnost", "en": "Responsibility" }]
+  },
+  {
+    "language": "cs",
+    "text": "Na každém šprochu pravdy trochu.",
+    "meaning": "V každé pomluvě bývá zrnko pravdy.",
+    "explanation": "Řeči nevznikají z ničeho — i přehnaná klevet mívá skutečné jádro. Přísloví radí fámy nepřijímat, ale ani zcela nepřehlížet.",
+    "example_usage": "„Smáli se zvěstem o prodeji firmy, a do půl roku byla prodaná. Na každém šprochu pravdy trochu.“",
+    "origin": "České lidové přísloví.",
+    "concepts": [{ "cs": "Pověst", "en": "Reputation" }, { "cs": "Řeč", "en": "Speech" }]
+  },
+  {
+    "language": "en",
+    "text": "There is no smoke without fire.",
+    "meaning": "Rumours usually have some basis in fact.",
+    "explanation": "Talk does not rise from nothing — even an exaggerated rumour tends to have a real core. The proverb advises neither swallowing gossip nor dismissing it entirely.",
+    "example_usage": "“Everyone denied the merger rumours, yet the deal was announced within months. There is no smoke without fire.”",
+    "origin": "Attested in English since the Middle Ages, from a French original.",
+    "concepts": [{ "cs": "Pověst", "en": "Reputation" }, { "cs": "Řeč", "en": "Speech" }]
+  },
+  {
+    "language": "cs",
+    "text": "Čas jsou peníze.",
+    "meaning": "Promarněný čas znamená promarněný zisk.",
+    "explanation": "Čas je kapitál, který každý dostává stejně a nikdo si ho nemůže koupit zpět. Přísloví moderní doby měří hodiny penězi — a nabádá s oběma hospodařit.",
+    "example_usage": "„Každá hodina prostoje stojí dílnu tisíce. Čas jsou peníze.“",
+    "origin": "Z eseje Benjamina Franklina „Rada mladému obchodníkovi“ (1748); v češtině zdomácnělé.",
+    "concepts": ["Čas", { "cs": "Peníze", "en": "Money" }]
+  },
+  {
+    "language": "en",
+    "text": "Time is money.",
+    "meaning": "Wasted time is wasted profit.",
+    "explanation": "Time is the one capital everyone receives equally and no one can buy back. The modern proverb measures hours in money — and urges thrift with both.",
+    "example_usage": "“Stop polishing the slides and ship the proposal — time is money.”",
+    "origin": "From Benjamin Franklin's essay “Advice to a Young Tradesman” (1748).",
+    "concepts": ["Čas", { "cs": "Peníze", "en": "Money" }]
+  },
+  {
+    "language": "cs",
+    "text": "Co se lehce nabude, snadno se pozbude.",
+    "meaning": "Snadno získané se snadno ztrácí.",
+    "explanation": "Čeho jsme nedosáhli vlastním úsilím, toho si neumíme vážit ani to udržet. Přísloví vysvětluje, proč rychlé zisky tak často rychle mizí.",
+    "example_usage": "„Výhru z loterie utratil za dva roky. Co se lehce nabude, snadno se pozbude.“",
+    "origin": "České lidové přísloví s obdobami po celé Evropě.",
+    "concepts": [{ "cs": "Peníze", "en": "Money" }, { "cs": "Štěstí", "en": "Luck" }]
+  },
+  {
+    "language": "en",
+    "text": "Easy come, easy go.",
+    "meaning": "What is gained without effort is lost without regret.",
+    "explanation": "What we did not earn with our own effort, we neither value nor keep. The proverb explains why quick gains so often vanish quickly.",
+    "example_usage": "“His poker winnings were gone within the month. Easy come, easy go.”",
+    "origin": "Attested in English since the Middle Ages as “lightly come, lightly go”.",
+    "concepts": [{ "cs": "Peníze", "en": "Money" }, { "cs": "Štěstí", "en": "Luck" }]
+  },
+  {
+    "language": "cs",
+    "text": "Jak kdo zaseje, tak také sklidí.",
+    "meaning": "Každý sklízí plody vlastního jednání.",
+    "explanation": "Setba určuje žeň — v poli i v životě. Přísloví připomíná, že dnešní činy jsou semena zítřejších následků, dobrých i zlých.",
+    "example_usage": "„Léta šidil zákazníky a teď se diví, že k němu nikdo nechce. Jak kdo zaseje, tak také sklidí.“",
+    "origin": "Biblické přísloví (List Galatským 6,7).",
+    "concepts": ["Důsledky", { "cs": "Odpovědnost", "en": "Responsibility" }]
+  },
+  {
+    "language": "en",
+    "text": "As you sow, so shall you reap.",
+    "meaning": "You harvest the fruits of your own actions.",
+    "explanation": "The sowing determines the harvest — in the field and in life. The proverb reminds us that today's deeds are the seeds of tomorrow's consequences, good and bad.",
+    "example_usage": "“He cut every corner for years, and now no contractor will work with him. As you sow, so shall you reap.”",
+    "origin": "From the Epistle to the Galatians 6:7.",
+    "concepts": ["Důsledky", { "cs": "Odpovědnost", "en": "Responsibility" }]
+  },
+  {
+    "language": "cs",
+    "text": "Podej čertu prst a vezme si celou ruku.",
+    "meaning": "Malý ústupek bezohlednému vede k dalším a větším.",
+    "explanation": "Kdo jednou ustoupí tomu, kdo meze nezná, určil jen začátek, nikoli konec. Přísloví varuje před prvním krokem tam, kde druhá strana nezná míru.",
+    "example_usage": "„Půjčil mu auto na víkend a teď ho vrací po měsíci. Podej čertu prst a vezme si celou ruku.“",
+    "origin": "Evropské přísloví doložené i v němčině; v češtině zlidovělé s postavou čerta.",
+    "concepts": ["Opatrnost", { "cs": "Chamtivost", "en": "Greed" }]
+  },
+  {
+    "language": "en",
+    "text": "Give him an inch and he will take a mile.",
+    "meaning": "A small concession to the ruthless invites ever larger ones.",
+    "explanation": "Whoever yields once to someone without limits has set only the beginning, not the end. The proverb warns against the first step where the other side knows no measure.",
+    "example_usage": "“We let him hand in one report late, and now nothing arrives on time. Give him an inch and he will take a mile.”",
+    "origin": "Attested in English since the 16th century, originally with “ell” instead of “mile”.",
+    "concepts": ["Opatrnost", { "cs": "Chamtivost", "en": "Greed" }]
+  },
+  {
+    "language": "cs",
+    "text": "Důvěřuj, ale prověřuj.",
+    "meaning": "Důvěra nemá vylučovat kontrolu.",
+    "explanation": "Důvěra je základ spolupráce, ověření její pojistka. Přísloví spojuje vstřícnost s obezřetností — věřit lidem a přesto si ověřovat fakta.",
+    "example_usage": "„Návrh smlouvy od partnera vypadal férově, přesto ho dala přečíst právníkovi. Důvěřuj, ale prověřuj.“",
+    "origin": "Z ruského pořekadla, proslaveného v 80. letech 20. století Ronaldem Reaganem.",
+    "concepts": ["Opatrnost", "Moudrost"]
+  },
+  {
+    "language": "en",
+    "text": "Trust, but verify.",
+    "meaning": "Trust should not exclude checking.",
+    "explanation": "Trust is the basis of cooperation, verification its insurance. The proverb joins goodwill with prudence — believe people, and still confirm the facts.",
+    "example_usage": "“The contractor's quote looked fair, but she still got two more estimates. Trust, but verify.”",
+    "origin": "A Russian proverb made famous by Ronald Reagan during the 1980s arms negotiations.",
+    "concepts": ["Opatrnost", "Moudrost"]
+  },
+  {
+    "language": "cs",
+    "text": "Kdo šetří, má za tři.",
+    "meaning": "Spořivost násobí majetek.",
+    "explanation": "Drobné úspory se sčítají rychleji, než se zdá. Přísloví chválí střídmé hospodaření jako nejjistější cestu k dostatku.",
+    "example_usage": "„Nekupuje kávu s sebou a za rok měl na novou pračku. Kdo šetří, má za tři.“",
+    "origin": "České lidové přísloví.",
+    "concepts": [{ "cs": "Peníze", "en": "Money" }, { "cs": "Střídmost", "en": "Moderation" }]
+  },
+  {
+    "language": "en",
+    "text": "A penny saved is a penny earned.",
+    "meaning": "Saving money is as good as earning it.",
+    "explanation": "Small savings add up faster than they seem to. The proverb praises modest housekeeping as the surest road to plenty.",
+    "example_usage": "“She cancelled three subscriptions she never used — a penny saved is a penny earned.”",
+    "origin": "English saying associated with Benjamin Franklin; older forms are attested from the 17th century.",
+    "concepts": [{ "cs": "Peníze", "en": "Money" }, { "cs": "Střídmost", "en": "Moderation" }]
+  },
+  {
+    "language": "cs",
+    "text": "Vše zlé je pro něco dobré.",
+    "meaning": "I nepříjemnost může přinést užitek.",
+    "explanation": "Nezdar zavírá jedny dveře a nepozorovaně otvírá jiné. Přísloví učí hledat v každé ráně skrytou příležitost — ne hned, ale časem.",
+    "example_usage": "„Po výpovědi si konečně otevřel vlastní dílnu, o které léta snil. Vše zlé je pro něco dobré.“",
+    "origin": "České lidové přísloví.",
+    "concepts": [{ "cs": "Naděje", "en": "Hope" }, "Spokojenost"]
+  },
+  {
+    "language": "en",
+    "text": "Every cloud has a silver lining.",
+    "meaning": "Every misfortune carries some hidden good.",
+    "explanation": "Failure closes one door and quietly opens another. The proverb teaches you to look for the hidden opportunity in every blow — not at once, but in time.",
+    "example_usage": "“Losing that job pushed her to start the bakery she'd always dreamed of. Every cloud has a silver lining.”",
+    "origin": "From John Milton's Comus (1634).",
+    "concepts": [{ "cs": "Naděje", "en": "Hope" }, "Spokojenost"]
+  },
+  {
+    "language": "cs",
+    "text": "Spálené dítě se ohně bojí.",
+    "meaning": "Špatná zkušenost učí opatrnosti.",
+    "explanation": "Bolest je nejdůslednější učitel — co jednou popálilo, tomu se člověk vyhýbá nadosmrti. Přísloví vysvětluje, proč zkušení bývají nedůvěřiví.",
+    "example_usage": "„Od krachu první firmy si každou smlouvu čte třikrát. Spálené dítě se ohně bojí.“",
+    "origin": "Evropské přísloví doložené ve středověké němčině i angličtině.",
+    "concepts": [{ "cs": "Zkušenost", "en": "Experience" }, { "cs": "Strach", "en": "Fear" }]
+  },
+  {
+    "language": "en",
+    "text": "Once bitten, twice shy.",
+    "meaning": "A bad experience makes you cautious.",
+    "explanation": "Pain is the most consistent teacher — what burned you once, you avoid for life. The proverb explains why the experienced tend to be wary.",
+    "example_usage": "“After the rental scam, he won't transfer a deposit without seeing the flat first. Once bitten, twice shy.”",
+    "origin": "Attested in English since the 19th century; the older form is “a burnt child dreads the fire”.",
+    "concepts": [{ "cs": "Zkušenost", "en": "Experience" }, { "cs": "Strach", "en": "Fear" }]
+  },
+  {
+    "language": "cs",
+    "text": "Cesta do pekla je dlážděna dobrými úmysly.",
+    "meaning": "Dobrý úmysl sám o sobě špatný výsledek neomlouvá.",
+    "explanation": "Úmysly nic nestojí — počítají se činy a jejich následky. Přísloví varuje před sebeklidem těch, kdo chtěli dobře, a proto necítí odpovědnost za škodu.",
+    "example_usage": "„Chtěl rodině jen ulehčit, a zadlužil ji na deset let. Cesta do pekla je dlážděna dobrými úmysly.“",
+    "origin": "Připisováno svatému Bernardovi z Clairvaux (12. století); rozšířené po celé Evropě.",
+    "concepts": ["Důsledky", { "cs": "Odpovědnost", "en": "Responsibility" }]
+  },
+  {
+    "language": "en",
+    "text": "The road to hell is paved with good intentions.",
+    "meaning": "Good intentions alone do not excuse bad outcomes.",
+    "explanation": "Intentions cost nothing — what counts are deeds and their consequences. The proverb warns against the easy conscience of those who meant well and therefore feel blameless.",
+    "example_usage": "“They ‘simplified' the benefits system and left thousands without payments for months. The road to hell is paved with good intentions.”",
+    "origin": "Attributed to St Bernard of Clairvaux (12th century); the English form is attested from the 19th century.",
+    "concepts": ["Důsledky", { "cs": "Odpovědnost", "en": "Responsibility" }]
+  },
+  {
+    "language": "cs",
+    "text": "Pozdě bycha honiti.",
+    "meaning": "Litovat po činu je zbytečné.",
+    "explanation": "„Bycha“ — toho, kdo říká „kdybych“ — už nikdo nedohoní. Přísloví uzavírá všechny pozdní lítosti: co se stalo, nejde odestát, a výčitky nic nezmění.",
+    "example_usage": "„Měl jsem to auto pojistit dřív, říkal si nad vrakem. Pozdě bycha honiti.“",
+    "origin": "Staročeské rčení; „bycha“ je ustrnulý tvar kondicionálu „bych“.",
+    "concepts": [{ "cs": "Lítost", "en": "Regret" }, "Důsledky"]
+  },
+  {
+    "language": "en",
+    "text": "It is no use crying over spilt milk.",
+    "meaning": "Regretting what cannot be undone is pointless.",
+    "explanation": "Spilt milk does not return to the jug. The proverb closes the book on late regrets: what happened cannot un-happen, so spend your strength on what comes next.",
+    "example_usage": "“The deal is dead, so let's plan the next one. It is no use crying over spilt milk.”",
+    "origin": "Attested in English since James Howell's proverb collection (1659).",
+    "concepts": [{ "cs": "Lítost", "en": "Regret" }, "Důsledky"]
+  },
+  {
+    "language": "cs",
+    "text": "Kdo s čím zachází, tím také schází.",
+    "meaning": "Co člověk používá proti druhým, to ho nakonec zahubí.",
+    "explanation": "Zbraň, lest i bezohlednost se časem obrátí proti svému nositeli. Přísloví vyjadřuje řád odplaty, který si zvolené prostředky nesou v sobě.",
+    "example_usage": "„Vyhazoval lidi bez varování — a stejně skončil i on. Kdo s čím zachází, tím také schází.“",
+    "origin": "České lidové přísloví s biblickým pozadím (Matouš 26,52).",
+    "concepts": ["Důsledky", { "cs": "Spravedlnost", "en": "Justice" }]
+  },
+  {
+    "language": "en",
+    "text": "He who lives by the sword dies by the sword.",
+    "meaning": "The means you use against others will be your own end.",
+    "explanation": "Weapon, ruse or ruthlessness — each turns in time against its bearer. The proverb states the order of retribution that chosen means carry within themselves.",
+    "example_usage": "“He built the firm on hostile takeovers, and a hostile takeover finished it. He who lives by the sword dies by the sword.”",
+    "origin": "From the Gospel of Matthew 26:52.",
+    "concepts": ["Důsledky", { "cs": "Spravedlnost", "en": "Justice" }]
+  },
+  {
+    "language": "cs",
+    "text": "Když kocour není doma, myši mají pré.",
+    "meaning": "Bez dohledu se kázeň rychle uvolní.",
+    "explanation": "Autorita působí i pouhou přítomností — jakmile zmizí, pravidla slábnou. Přísloví s úsměvem popisuje, co se děje, když dohled poleví.",
+    "example_usage": "„Ředitel odjel na týden a porady se rázem zkrátily na pět minut. Když kocour není doma, myši mají pré.“",
+    "origin": "Evropské přísloví doložené ve francouzštině i angličtině od středověku.",
+    "concepts": [{ "cs": "Svoboda", "en": "Freedom" }, { "cs": "Příležitost", "en": "Opportunity" }]
+  },
+  {
+    "language": "en",
+    "text": "When the cat is away, the mice will play.",
+    "meaning": "Discipline relaxes quickly when no one is watching.",
+    "explanation": "Authority works by mere presence — once it leaves, the rules loosen. The proverb smiles at what happens whenever supervision fades.",
+    "example_usage": "“The boss left for a week and the morning meetings shrank to five minutes. When the cat is away, the mice will play.”",
+    "origin": "Attested in English since the 17th century, from a medieval French original.",
+    "concepts": [{ "cs": "Svoboda", "en": "Freedom" }, { "cs": "Příležitost", "en": "Opportunity" }]
+  },
+  {
+    "language": "cs",
+    "text": "Nouze naučila Dalibora housti.",
+    "meaning": "Nutnost donutí člověka naučit se i nemožné.",
+    "explanation": "Podle pověsti se rytíř Dalibor naučil ve vězení hrát na housle. Přísloví říká, že nejlepším učitelem není nadání, ale nezbytí.",
+    "example_usage": "„Nikdy nevařil — a po rozvodu se z něj stal výborný kuchař. Nouze naučila Dalibora housti.“",
+    "origin": "Z české pověsti o rytíři Daliborovi, vězněném na Pražském hradě koncem 15. století.",
+    "concepts": [{ "cs": "Učení", "en": "Learning" }, { "cs": "Zkušenost", "en": "Experience" }]
+  },
+  {
+    "language": "en",
+    "text": "Necessity is the mother of invention.",
+    "meaning": "Need forces people to find new solutions.",
+    "explanation": "Comfort invents nothing; shortage does. The proverb says the best teacher is not talent but necessity — most ingenuity is born of having no choice.",
+    "example_usage": "“With no budget for software, they built their own tool — necessity is the mother of invention.”",
+    "origin": "From the Latin “Mater artium necessitas”; in English since the 16th century.",
+    "concepts": [{ "cs": "Učení", "en": "Learning" }, { "cs": "Zkušenost", "en": "Experience" }]
+  },
+  {
+    "language": "cs",
+    "text": "Káže vodu, pije víno.",
+    "meaning": "Vyžaduje od druhých, co sám nedodržuje.",
+    "explanation": "Nejtvrdší kazatelé bývají k sobě nejshovívavější. Přísloví pojmenovává pokrytectví — rozpor mezi hlásanými zásadami a vlastním životem.",
+    "example_usage": "„Nabádá všechny k šetření a sám létá první třídou. Káže vodu, pije víno.“",
+    "origin": "Ze středověké kritiky kléru; v češtině zlidovělé.",
+    "concepts": [{ "cs": "Poctivost", "en": "Honesty" }, "Zdání"]
+  },
+  {
+    "language": "en",
+    "text": "Practice what you preach.",
+    "meaning": "Live by the standards you demand of others.",
+    "explanation": "The harshest preachers tend to be gentlest with themselves. The proverb names hypocrisy — the gap between proclaimed principles and one's own life — and demands it be closed.",
+    "example_usage": "“He lectures the team on punctuality and strolls in at ten. Practice what you preach.”",
+    "origin": "Echoes the Gospel of Matthew 23:3; attested in English since the 17th century.",
+    "concepts": [{ "cs": "Poctivost", "en": "Honesty" }, "Zdání"]
+  },
+  {
+    "language": "cs",
+    "text": "Devatero řemesel, desátá bída.",
+    "meaning": "Kdo se věnuje všemu, nevyniká v ničem.",
+    "explanation": "Rozptýlené úsilí nikde nedosáhne hloubky, která živí. Přísloví varuje před věčným přebíháním mezi obory — mistrovství vyžaduje soustředění.",
+    "example_usage": "„Zkusil e-shop, kavárnu i taxikaření a nikde nevydržel. Devatero řemesel, desátá bída.“",
+    "origin": "České lidové přísloví.",
+    "concepts": ["Píle", "Moudrost"]
+  },
+  {
+    "language": "en",
+    "text": "Jack of all trades, master of none.",
+    "meaning": "Whoever does everything excels at nothing.",
+    "explanation": "Scattered effort never reaches the depth that pays. The proverb warns against forever hopping between trades — mastery demands focus.",
+    "example_usage": "“He codes a bit, designs a bit, sells a bit — and clients never know what to hire him for. Jack of all trades, master of none.”",
+    "origin": "Attested in English since the 17th century; the “master of none” half was added in the 18th.",
+    "concepts": ["Píle", "Moudrost"]
+  },
+  {
+    "language": "cs",
+    "text": "Neštěstí nechodí nikdy samo.",
+    "meaning": "Pohromy přicházejí ve vlnách.",
+    "explanation": "Jedna rána oslabí — a další proto dopadají tvrději a hned. Přísloví připravuje na zlé časy: počítej s tím, že potíže se rády sčítají.",
+    "example_usage": "„Porouchalo se auto, vytopil je soused a k tomu přišla chřipka. Neštěstí nechodí nikdy samo.“",
+    "origin": "Evropské přísloví s antickými kořeny; v češtině zlidovělé.",
+    "concepts": [{ "cs": "Štěstí", "en": "Luck" }, { "cs": "Zkušenost", "en": "Experience" }]
+  },
+  {
+    "language": "en",
+    "text": "It never rains but it pours.",
+    "meaning": "Misfortunes arrive in waves.",
+    "explanation": "One blow weakens you — so the next ones land harder and at once. The proverb prepares you for bad times: expect troubles to come in clusters.",
+    "example_usage": "“The car broke down, the boiler died and then the flu hit — it never rains but it pours.”",
+    "origin": "From the title of a 1726 English pamphlet associated with John Arbuthnot.",
+    "concepts": [{ "cs": "Štěstí", "en": "Luck" }, { "cs": "Zkušenost", "en": "Experience" }]
+  },
+  {
+    "language": "cs",
+    "text": "Z bláta do louže.",
+    "meaning": "Z jedné nepříjemnosti rovnou do druhé.",
+    "explanation": "Únik z potíží nebývá totéž co záchrana — ve spěchu si člověk snadno vybere stejně špatně. Přísloví popisuje řešení, které nic nevyřešilo.",
+    "example_usage": "„Utekl od přísného šéfa k ještě přísnějšímu. Dostal se z bláta do louže.“",
+    "origin": "České lidové rčení s obdobami v mnoha jazycích.",
+    "concepts": ["Důsledky", { "cs": "Štěstí", "en": "Luck" }]
+  },
+  {
+    "language": "en",
+    "text": "Out of the frying pan, into the fire.",
+    "meaning": "From one trouble straight into a worse one.",
+    "explanation": "Escaping a problem is not the same as solving it — in haste, people often choose just as badly. The proverb describes the fix that fixed nothing.",
+    "example_usage": "“She left the chaotic startup for a company that went bankrupt a month later. Out of the frying pan, into the fire.”",
+    "origin": "From a Greek saying, brought into English by Thomas More (16th century).",
+    "concepts": ["Důsledky", { "cs": "Štěstí", "en": "Luck" }]
+  },
+  {
+    "language": "cs",
+    "text": "Naděje umírá poslední.",
+    "meaning": "Naděje vydrží, i když všechno ostatní selže.",
+    "explanation": "Síly, plány i jistoty se vyčerpají — naděje zůstává a drží člověka na nohou. Přísloví je tichou poklonou lidské houževnatosti.",
+    "example_usage": "„I po pátém zamítnutí žádost podala znovu. Naděje umírá poslední.“",
+    "origin": "Evropské rčení s antickými kořeny, v češtině zdomácnělé.",
+    "concepts": [{ "cs": "Naděje", "en": "Hope" }, { "cs": "Vytrvalost", "en": "Perseverance" }]
+  },
+  {
+    "language": "en",
+    "text": "Hope springs eternal.",
+    "meaning": "Hope endures when everything else fails.",
+    "explanation": "Strength, plans and certainties run out — hope remains and keeps people standing. The proverb is a quiet tribute to human resilience.",
+    "example_usage": "“After five rejections she submitted the manuscript again. Hope springs eternal.”",
+    "origin": "From Alexander Pope's An Essay on Man (1734).",
+    "concepts": [{ "cs": "Naděje", "en": "Hope" }, { "cs": "Vytrvalost", "en": "Perseverance" }]
+  },
+  {
+    "language": "cs",
+    "text": "Co nechceš, aby ti jiní činili, nečiň ty jim.",
+    "meaning": "Chovej se k druhým tak, jak chceš, aby se chovali k tobě.",
+    "explanation": "Zlaté pravidlo obrací měřítko na nás samé: vlastní citlivost je nejspolehlivější vodítko, co druhým nedělat. Je základem slušnosti napříč kulturami.",
+    "example_usage": "„Než ten posměšek odešleš, vzpomeň si: co nechceš, aby ti jiní činili, nečiň ty jim.“",
+    "origin": "Zlaté pravidlo doložené v Bibli (Tóbijáš 4,15; Matouš 7,12) i v mnoha dalších tradicích.",
+    "concepts": [{ "cs": "Spravedlnost", "en": "Justice" }, "Moudrost"]
+  },
+  {
+    "language": "en",
+    "text": "Do unto others as you would have them do unto you.",
+    "meaning": "Treat others the way you wish to be treated.",
+    "explanation": "The golden rule turns the yardstick on ourselves: our own sensitivity is the most reliable guide to what not to do to others. It is the foundation of decency across cultures.",
+    "example_usage": "“Before you forward that embarrassing photo, remember: do unto others as you would have them do unto you.”",
+    "origin": "From the Sermon on the Mount (Matthew 7:12); the golden rule appears in many traditions.",
+    "concepts": [{ "cs": "Spravedlnost", "en": "Justice" }, "Moudrost"]
+  },
+  {
+    "language": "cs",
+    "text": "V jednotě je síla.",
+    "meaning": "Společně lidé dokážou, co jednotlivec nesvede.",
+    "explanation": "Jeden prut zlomíš, otep nikoli. Přísloví připomíná, že svornost je nejstarší forma síly — a rozdělení nejstarší forma porážky.",
+    "example_usage": "„Jednotlivé stížnosti nikdo neřešil; petici celé ulice radnice vyslyšela za týden. V jednotě je síla.“",
+    "origin": "Z Ezopovy bajky o otci a svazku prutů; jako heslo užíváno po staletí.",
+    "concepts": [{ "cs": "Spolupráce", "en": "Cooperation" }, { "cs": "Odvaha", "en": "Courage" }]
+  },
+  {
+    "language": "en",
+    "text": "United we stand, divided we fall.",
+    "meaning": "Together people achieve what no individual can.",
+    "explanation": "One stick snaps, a bundle does not. The proverb reminds us that unity is the oldest form of strength — and division the oldest form of defeat.",
+    "example_usage": "“No single tenant could fight the rent hike, but the building association won in a month. United we stand, divided we fall.”",
+    "origin": "From Aesop's fable of the bundle of sticks; popularised in America by John Dickinson (1768).",
+    "concepts": [{ "cs": "Spolupráce", "en": "Cooperation" }, { "cs": "Odvaha", "en": "Courage" }]
+  },
+  {
+    "language": "cs",
+    "text": "Spěchej pomalu.",
+    "meaning": "Nejrychleji dojde ten, kdo nespěchá zbrkle.",
+    "explanation": "Klidné tempo bez chyb předběhne horečnatý spěch s opravami. Paradox přísloví vystihuje umění postupovat svižně, a přitom rozvážně.",
+    "example_usage": "„Stavěli bez skluzu, protože nikdy nepřeskočili kontrolu. Spěchej pomalu.“",
+    "origin": "Z latinského „Festina lente“, oblíbeného hesla císaře Augusta.",
+    "concepts": ["Trpělivost", "Opatrnost"]
+  },
+  {
+    "language": "en",
+    "text": "Slow and steady wins the race.",
+    "meaning": "Calm persistence beats hasty bursts.",
+    "explanation": "A steady pace without mistakes overtakes feverish haste full of corrections. The proverb captures the art of moving briskly yet deliberately.",
+    "example_usage": "“She saved a little every month while others chased hot stocks — and retired first. Slow and steady wins the race.”",
+    "origin": "From Aesop's fable of the tortoise and the hare.",
+    "concepts": ["Trpělivost", "Opatrnost"]
+  },
+  {
+    "language": "cs",
+    "text": "Za peníze si štěstí nekoupíš.",
+    "meaning": "Skutečné štěstí není na prodej.",
+    "explanation": "Peníze odstraní mnohé starosti, ale lásku, zdraví ani klid svědomí neobstarají. Přísloví vrací bohatství jeho skutečnou — omezenou — hodnotu.",
+    "example_usage": "„Vydělává trojnásobek, ale domů chodí v deset večer a děti ho nevidí. Za peníze si štěstí nekoupíš.“",
+    "origin": "Novodobé lidové rčení rozšířené v mnoha jazycích.",
+    "concepts": [{ "cs": "Peníze", "en": "Money" }, "Spokojenost"]
+  },
+  {
+    "language": "en",
+    "text": "Money cannot buy happiness.",
+    "meaning": "True happiness is not for sale.",
+    "explanation": "Money removes many worries, but it cannot procure love, health or a clear conscience. The proverb restores wealth to its real — limited — value.",
+    "example_usage": "“He earns triple now, gets home at ten and never sees the kids. Money cannot buy happiness.”",
+    "origin": "A modern proverb with roots in 18th-century moral philosophy.",
+    "concepts": [{ "cs": "Peníze", "en": "Money" }, "Spokojenost"]
+  },
+  {
+    "language": "cs",
+    "text": "Když se kácí les, létají třísky.",
+    "meaning": "Velké změny mají vedlejší škody.",
+    "explanation": "Žádné velké dílo se neobejde bez ztrát v okolí. Přísloví to konstatuje — a zároveň bývá zneužíváno k omlouvání škod, které nutné nebyly.",
+    "example_usage": "„Při slučování oddělení přišli o místo i dva schopní lidé. Když se kácí les, létají třísky.“",
+    "origin": "Středoevropské přísloví z dřevorubeckého prostředí.",
+    "concepts": ["Důsledky", { "cs": "Odpovědnost", "en": "Responsibility" }]
+  },
+  {
+    "language": "en",
+    "text": "You cannot make an omelette without breaking eggs.",
+    "meaning": "Great changes have side costs.",
+    "explanation": "No large undertaking happens without losses around it. The proverb states this plainly — and is just as often misused to excuse damage that was never necessary.",
+    "example_usage": "“The reorganisation cost us two good people. You cannot make an omelette without breaking eggs, they said.”",
+    "origin": "From a French saying; in English since the 19th century.",
+    "concepts": ["Důsledky", { "cs": "Odpovědnost", "en": "Responsibility" }]
+  },
+  {
+    "language": "cs",
+    "text": "Krev není voda.",
+    "meaning": "Rodinné pouto je silnější než jiné vztahy.",
+    "explanation": "Přátelé přicházejí a odcházejí, rodina zůstává. Přísloví vyjadřuje přednost, kterou v rozhodující chvíli dostává příbuzenství.",
+    "example_usage": "„Léta se s bratrem nebavili, ale když onemocněl, byla u něj první. Krev není voda.“",
+    "origin": "Evropské přísloví doložené ve středověké němčině.",
+    "concepts": ["Rodina"]
+  },
+  {
+    "language": "en",
+    "text": "Blood is thicker than water.",
+    "meaning": "Family bonds outweigh other ties.",
+    "explanation": "Friends come and go; family remains. The proverb expresses the precedence kinship takes at the decisive moment.",
+    "example_usage": "“They hadn't spoken for years, but when his brother fell ill, he was there the next morning. Blood is thicker than water.”",
+    "origin": "Attested in English since the 17th century, from a medieval German original.",
+    "concepts": ["Rodina"]
+  },
+  {
+    "language": "cs",
+    "text": "Nemusí pršet, stačí když kape.",
+    "meaning": "I drobný, ale stálý přísun stačí.",
+    "explanation": "Velké jednorázové zisky nejsou nutné — důležitá je vytrvalá drobná pravidelnost. Přísloví chválí skromný, ale stálý přítok před čekáním na velkou vodu.",
+    "example_usage": "„Obchůdek nevydělává majlant, ale uživí je spolehlivě. Nemusí pršet, stačí když kape.“",
+    "origin": "České lidové přísloví.",
+    "concepts": [{ "cs": "Střídmost", "en": "Moderation" }, "Spokojenost"]
+  },
+  {
+    "language": "en",
+    "text": "Every little helps.",
+    "meaning": "Even small contributions add up.",
+    "explanation": "Great one-off gains are not necessary — persistent small regularity is what matters. The proverb praises the modest but steady trickle over waiting for a flood.",
+    "example_usage": "“Ten minutes of practice a day doesn't sound like much, but every little helps.”",
+    "origin": "Attested in English since the 18th century, with older French parallels.",
+    "concepts": [{ "cs": "Střídmost", "en": "Moderation" }, "Spokojenost"]
+  },
+  {
+    "language": "cs",
+    "text": "Jak se do lesa volá, tak se z lesa ozývá.",
+    "meaning": "Jak se chováme k druhým, tak se oni chovají k nám.",
+    "explanation": "Les vrací každé zavolání věrně — vlídnost i hrubost. Přísloví připomíná, že chování druhých k nám bývá ozvěnou našeho chování k nim.",
+    "example_usage": "„Na nového kolegu byl od začátku protivný a teď se diví, že mu nikdo nepomůže. Jak se do lesa volá, tak se z lesa ozývá.“",
+    "origin": "České lidové přísloví zapsané ve sbírce F. L. Čelakovského (1852).",
+    "concepts": ["Důsledky", { "cs": "Spravedlnost", "en": "Justice" }]
+  },
+  {
+    "language": "cs",
+    "text": "Žádný učený z nebe nespadl.",
+    "meaning": "Nikdo se nerodí s hotovými znalostmi.",
+    "explanation": "Každá dovednost začíná neuměním a roste cvikem. Přísloví povzbuzuje začátečníky a krotí netrpělivost s nimi — i mistr kdysi neuměl nic.",
+    "example_usage": "„První web měl plný chyb, ale učí se dál. Žádný učený z nebe nespadl.“",
+    "origin": "České lidové přísloví s obdobami v němčině.",
+    "concepts": [{ "cs": "Učení", "en": "Learning" }, { "cs": "Pokora", "en": "Humility" }]
+  },
+  {
+    "language": "cs",
+    "text": "Kolik jazyků znáš, tolikrát jsi člověkem.",
+    "meaning": "Každý jazyk otevírá nový svět a rozšiřuje osobnost.",
+    "explanation": "S novým jazykem člověk získává nejen slova, ale i způsob myšlení a přístup k jiné kultuře. Přísloví oslavuje učení jazyků jako násobení vlastního života.",
+    "example_usage": "„Po roce s němčinou čte noviny, kterým dřív nerozuměl ani titulek. Kolik jazyků znáš, tolikrát jsi člověkem.“",
+    "origin": "Evropské rčení tradované v mnoha kulturách; v češtině spojováno s T. G. Masarykem.",
+    "concepts": [{ "cs": "Učení", "en": "Learning" }, "Moudrost"]
+  },
+  {
+    "language": "cs",
+    "text": "Ryba smrdí od hlavy.",
+    "meaning": "Úpadek organizace začíná u jejího vedení.",
+    "explanation": "Co je shnilé nahoře, prosákne dolů. Přísloví hledá příčinu rozkladu tam, kde je moc a odpovědnost — u hlavy, ne u těla.",
+    "example_usage": "„Šéfové si přilepšovali a pak se divili, že kradou i skladníci. Ryba smrdí od hlavy.“",
+    "origin": "Z řeckého rčení rozšířeného Erasmem Rotterdamským; v češtině zlidovělé.",
+    "concepts": [{ "cs": "Odpovědnost", "en": "Responsibility" }, "Důsledky"]
+  },
+  {
+    "language": "cs",
+    "text": "Strach má velké oči.",
+    "meaning": "Strach zveličuje nebezpečí.",
+    "explanation": "Vystrašené oči vidí hrozby větší, než jaké doopravdy jsou. Přísloví radí nejdřív se podívat zblízka — obludy z dálky bývají zblízka pařezy.",
+    "example_usage": "„Bál se té zkoušky půl roku a nakonec ji udělal na jedničku. Strach má velké oči.“",
+    "origin": "Slovanské přísloví rozšířené v češtině, ruštině i polštině.",
+    "concepts": [{ "cs": "Strach", "en": "Fear" }, "Zdání"]
+  },
+  {
+    "language": "cs",
+    "text": "Kdo lže, ten krade.",
+    "meaning": "Malá nepoctivost svědčí o sklonu k větší.",
+    "explanation": "Lež a krádež rostou z téhož kořene — ochoty klamat pro vlastní prospěch. Přísloví učí, že charakter se pozná na maličkostech dřív, než dojde na velké věci.",
+    "example_usage": "„Lhal o docházce, tak mu přestali svěřovat pokladnu. Kdo lže, ten krade.“",
+    "origin": "České výchovné rčení tradované po generace.",
+    "concepts": [{ "cs": "Poctivost", "en": "Honesty" }, { "cs": "Pověst", "en": "Reputation" }]
+  },
+  {
+    "language": "cs",
+    "text": "Tak dlouho se chodí se džbánem pro vodu, až se ucho utrhne.",
+    "meaning": "Opakované riskování jednou skončí špatně.",
+    "explanation": "Co vyšlo stokrát, nemusí vyjít po sto prvé — a opotřebení se sčítá. Přísloví varuje, že beztrestnost rizika je jen dočasná.",
+    "example_usage": "„Roky jezdil bez dálniční známky, až dostal pořádnou pokutu. Tak dlouho se chodí se džbánem pro vodu, až se ucho utrhne.“",
+    "origin": "Evropské přísloví doložené od středověku ve francouzštině i němčině.",
+    "concepts": ["Důsledky", "Opatrnost"]
+  },
+  {
+    "language": "cs",
+    "text": "Kdo chce psa bít, hůl si vždy najde.",
+    "meaning": "Kdo chce někomu ublížit, záminku si vždycky najde.",
+    "explanation": "Rozhodnutí předchází zdůvodnění — záminka se dohledá zpětně. Přísloví odhaluje mechaniku svévole a učí rozlišovat skutečné důvody od výmluv.",
+    "example_usage": "„Vedení ho chtělo vyhodit, tak vytáhli prohřešek tři roky starý. Kdo chce psa bít, hůl si vždy najde.“",
+    "origin": "Evropské přísloví doložené od 16. století.",
+    "concepts": [{ "cs": "Spravedlnost", "en": "Justice" }, "Zdání"]
+  },
+  {
+    "language": "cs",
+    "text": "Co se v mládí naučíš, ve stáří jako když najdeš.",
+    "meaning": "Znalosti z mládí se v životě vždy zúročí.",
+    "explanation": "Co si člověk osvojí v mládí, nese se s ním celý život jako uložený poklad. Přísloví povzbuzuje k učení v letech, kdy jde nejsnáz.",
+    "example_usage": "„Pět let klavíru v dětství — a dnes si po večerech zahraje pro radost. Co se v mládí naučíš, ve stáří jako když najdeš.“",
+    "origin": "České lidové přísloví.",
+    "concepts": [{ "cs": "Učení", "en": "Learning" }, "Čas"]
+  },
+  {
+    "language": "cs",
+    "text": "Nevěř slovům, věř skutkům.",
+    "meaning": "Spolehlivým měřítkem člověka jsou činy, ne řeči.",
+    "explanation": "Slibovat umí každý — plnit jen někdo. Přísloví radí posuzovat lidi podle toho, co dělají, a slova brát jen jako ohlášku, kterou je třeba ověřit.",
+    "example_usage": "„Sliboval pomoc se stěhováním třikrát a nepřišel ani jednou. Nevěř slovům, věř skutkům.“",
+    "origin": "České lidové přísloví s antickým pozadím.",
+    "concepts": ["Moudrost", "Zdání"]
+  },
+  {
+    "language": "cs",
+    "text": "Není růže bez trní.",
+    "meaning": "Nic krásného není bez stinných stránek.",
+    "explanation": "Krása a bolest rostou na jednom stonku. Přísloví smiřuje s tím, že všechno cenné — láska, práce i úspěch — má i své trny.",
+    "example_usage": "„Vysněná práce v zahraničí znamenala i stesk po domově. Není růže bez trní.“",
+    "origin": "Evropské přísloví s kořeny v perské poezii.",
+    "concepts": ["Spokojenost", { "cs": "Zkušenost", "en": "Experience" }]
+  },
+  {
+    "language": "cs",
+    "text": "Chudoba cti netratí.",
+    "meaning": "Chudoba není ostuda.",
+    "explanation": "Čest se neměří majetkem — chudý člověk může být ctnostnější než boháč. Přísloví brání důstojnost těch, kdo mají hluboko do kapsy.",
+    "example_usage": "„Styděl se pozvat kamarády do malého bytu, ale zbytečně. Chudoba cti netratí.“",
+    "origin": "České lidové přísloví zapsané ve sbírce F. L. Čelakovského (1852).",
+    "concepts": [{ "cs": "Pokora", "en": "Humility" }, { "cs": "Pověst", "en": "Reputation" }]
+  },
+  {
+    "language": "en",
+    "text": "Rome was not built in a day.",
+    "meaning": "Great things take time.",
+    "explanation": "Anything worth building grows slowly, stone by stone. The proverb counsels patience with big undertakings — and with ourselves while we build them.",
+    "example_usage": "“Six months in and the business barely breaks even — but Rome was not built in a day.”",
+    "origin": "From a medieval French saying (12th century); in English since the 16th century.",
+    "concepts": ["Trpělivost", { "cs": "Vytrvalost", "en": "Perseverance" }]
+  },
+  {
+    "language": "en",
+    "text": "Make hay while the sun shines.",
+    "meaning": "Use favourable conditions while they last.",
+    "explanation": "Hay can only be made in dry weather, and weather does not wait. The proverb urges getting work done while circumstances allow, because they will change.",
+    "example_usage": "“Demand is huge right now, so let's hire and expand — make hay while the sun shines.”",
+    "origin": "Recorded in John Heywood's collection of English proverbs (1546).",
+    "concepts": [{ "cs": "Příležitost", "en": "Opportunity" }, "Píle"]
+  },
+  {
+    "language": "en",
+    "text": "Don't put all your eggs in one basket.",
+    "meaning": "Do not risk everything on a single venture.",
+    "explanation": "One stumble with one basket and every egg is gone. The proverb teaches spreading risk — in money, work and plans alike.",
+    "example_usage": "“He kept his savings across three banks and two funds. Don't put all your eggs in one basket, he'd say.”",
+    "origin": "Attested in English since the 17th century; famously cited in Don Quixote.",
+    "concepts": ["Opatrnost", { "cs": "Peníze", "en": "Money" }]
+  },
+  {
+    "language": "en",
+    "text": "Where there is a will, there is a way.",
+    "meaning": "Determination always finds a path.",
+    "explanation": "Obstacles are real, but so is ingenuity — and it works for those who refuse to quit. The proverb locates the decisive resource not in circumstances but in resolve.",
+    "example_usage": "“No money, no contacts, no degree — and she still got the gallery opened. Where there is a will, there is a way.”",
+    "origin": "Attested in English since the 17th century.",
+    "concepts": [{ "cs": "Vytrvalost", "en": "Perseverance" }, { "cs": "Odvaha", "en": "Courage" }]
+  },
+  {
+    "language": "en",
+    "text": "Knowledge is power.",
+    "meaning": "Knowing gives the ability to act.",
+    "explanation": "Whoever understands a thing can shape it; whoever does not, depends on those who do. The proverb states the oldest argument for learning.",
+    "example_usage": "“She read every clause of the contract and negotiated the fee down by a third. Knowledge is power.”",
+    "origin": "From Francis Bacon's Latin “scientia potentia est” (1597).",
+    "concepts": [{ "cs": "Učení", "en": "Learning" }, "Moudrost"]
+  },
+  {
+    "language": "en",
+    "text": "The grass is always greener on the other side.",
+    "meaning": "Other people's lot always looks better than your own.",
+    "explanation": "Distance hides the weeds — we compare our whole reality with a polished glimpse of someone else's. The proverb warns that envy is usually an optical illusion.",
+    "example_usage": "“He switched jobs for the ‘relaxed' rival firm and found the same overtime there. The grass is always greener on the other side.”",
+    "origin": "A 20th-century English saying with roots in Ovid.",
+    "concepts": [{ "cs": "Závist", "en": "Envy" }, "Spokojenost"]
+  },
+  {
+    "language": "en",
+    "text": "Absence makes the heart grow fonder.",
+    "meaning": "Separation strengthens affection.",
+    "explanation": "Distance strips a relationship to what matters and lets longing do its quiet work. The proverb is the hopeful counterpart to forgetting — what is missed is loved.",
+    "example_usage": "“A year apart during her studies abroad, and the wedding came a month after she returned. Absence makes the heart grow fonder.”",
+    "origin": "From an Elizabethan poem, popularised by a 19th-century song.",
+    "concepts": [{ "cs": "Láska", "en": "Love" }, "Čas"]
+  },
+  {
+    "language": "en",
+    "text": "Too many cooks spoil the broth.",
+    "meaning": "Too many people managing one task ruin it.",
+    "explanation": "Where everyone stirs, no one is responsible for the taste. The proverb defends clear ownership against well-meant crowding.",
+    "example_usage": "“Five managers rewrote the announcement until it said nothing at all. Too many cooks spoil the broth.”",
+    "origin": "Attested in English since the 16th century.",
+    "concepts": [{ "cs": "Spolupráce", "en": "Cooperation" }, "Důsledky"]
+  },
+  {
+    "language": "en",
+    "text": "He who hesitates is lost.",
+    "meaning": "Hesitation costs the opportunity.",
+    "explanation": "Some doors stay open only a moment. The proverb is the counterweight to all calls for caution: there are moments when deliberation itself is the mistake.",
+    "example_usage": "“He thought the flat over for one more night, and by morning it was taken. He who hesitates is lost.”",
+    "origin": "Adapted from a line in Joseph Addison's tragedy Cato (1713).",
+    "concepts": [{ "cs": "Příležitost", "en": "Opportunity" }, { "cs": "Odvaha", "en": "Courage" }]
+  },
+  {
+    "language": "en",
+    "text": "Time and tide wait for no man.",
+    "meaning": "Time passes regardless of anyone's wishes.",
+    "explanation": "Neither the hour nor the sea asks whether we are ready. The proverb urges acting now, because the one resource that never negotiates is time.",
+    "example_usage": "“Stop waiting for the perfect moment to start the degree — time and tide wait for no man.”",
+    "origin": "One of the oldest English proverbs, attested since the 14th century.",
+    "concepts": ["Čas", { "cs": "Příležitost", "en": "Opportunity" }]
+  },
+  {
+    "language": "en",
+    "text": "Prevention is better than cure.",
+    "meaning": "Avoiding a problem beats fixing it.",
+    "explanation": "A small effort before beats a great effort after. The proverb applies far beyond medicine — to machines, finances and relationships alike.",
+    "example_usage": "“Back up the server now; recovering lost data costs a hundred times more. Prevention is better than cure.”",
+    "origin": "From a Latin maxim popularised by Erasmus; in English since the 17th century.",
+    "concepts": ["Opatrnost", { "cs": "Zdraví", "en": "Health" }]
+  },
+  {
+    "language": "en",
+    "text": "Two wrongs do not make a right.",
+    "meaning": "Repaying a wrong with a wrong corrects nothing.",
+    "explanation": "Retaliation doubles the damage and calls it justice. The proverb cuts through that illusion — a second wrong never cancels the first one.",
+    "example_usage": "“He scratched your car, and you slashed his tyres? Two wrongs do not make a right.”",
+    "origin": "Attested in English since the 18th century.",
+    "concepts": [{ "cs": "Spravedlnost", "en": "Justice" }, { "cs": "Sebeovládání", "en": "Self-control" }]
+  }
+]

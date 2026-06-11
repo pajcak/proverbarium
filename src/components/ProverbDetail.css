@@ -1,0 +1,114 @@
+.proverb-detail {
+  display: flex;
+  flex-direction: column;
+}
+
+.detail-header {
+  margin-bottom: 16px;
+}
+
+.detail-language {
+  font-size: var(--type-label-medium);
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--md-on-surface-muted);
+  margin-bottom: 16px;
+}
+
+.detail-text {
+  font-size: var(--type-headline-large);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 1.25;
+  color: var(--md-on-surface);
+  max-width: 24ch;
+}
+
+.detail-section {
+  margin-top: 40px;
+  max-width: var(--reading-max-width);
+}
+
+.detail-label {
+  font-size: var(--type-label-medium);
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--md-on-surface-muted);
+  margin-bottom: 10px;
+}
+
+/* Meaning: the second level of the hierarchy, gently emphasized. */
+.detail-meaning {
+  padding: 20px 24px;
+  background: var(--md-surface-container-low);
+  border-radius: var(--radius-l);
+}
+
+.detail-meaning .detail-label {
+  margin-bottom: 6px;
+}
+
+.detail-meaning-text {
+  font-size: var(--type-body-large);
+  font-weight: 500;
+  color: var(--md-on-surface);
+}
+
+.detail-body {
+  font-size: var(--type-body-large);
+  line-height: 1.7;
+  color: var(--md-on-surface-variant);
+}
+
+.detail-example {
+  margin: 0;
+  padding: 4px 0 4px 20px;
+  border-left: 3px solid var(--md-secondary);
+  font-size: var(--type-body-large);
+  font-style: italic;
+  line-height: 1.7;
+  color: var(--md-on-surface-variant);
+}
+
+.detail-concepts {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 0;
+  padding: 0;
+}
+
+.detail-concept-chip {
+  display: inline-block;
+  font-size: var(--type-label-large);
+  font-weight: 500;
+  color: var(--md-on-secondary-container);
+  background: var(--md-secondary-container);
+  padding: 6px 16px;
+  border-radius: var(--radius-full);
+  transition:
+    box-shadow var(--motion-fast) var(--easing-standard),
+    transform var(--motion-fast) var(--easing-standard);
+}
+
+.detail-concept-chip:hover {
+  box-shadow: var(--elevation-1);
+  transform: translateY(-1px);
+}
+
+/* Primary concept: the strongest semantic link gets the filled chip. */
+.detail-concept-chip.is-primary {
+  color: var(--md-on-primary-container, var(--md-on-secondary-container));
+  background: var(--md-primary-container, var(--md-secondary-container));
+  font-weight: 600;
+}
+
+.concept-weight {
+  margin-left: 8px;
+  font-size: var(--type-label-medium);
+  font-weight: 400;
+  opacity: 0.65;
+}

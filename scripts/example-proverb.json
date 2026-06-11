@@ -1,0 +1,17 @@
+[
+  {
+    "language": "cs",
+    "text": "Pozdě bycha honiti.",
+    "meaning": "Litovat po činu je zbytečné.",
+    "explanation": "Jakmile se rozhodnutí stane, výčitky už nic nezmění. Přísloví připomíná, že promeškanou příležitost ani chybu nelze vrátit — lépe je jednat rozvážně včas.",
+    "example_usage": "„Měl jsem to auto pojistit dřív. Pozdě bycha honiti.“",
+    "origin": "Staročeské rčení; „bycha“ je ustrnulý tvar kondicionálu „bych“.",
+    "concepts": ["Důsledky", "Opatrnost"]
+  },
+  {
+    "language": "en",
+    "text": "Practice makes perfect.",
+    "meaning": "Repeated effort and exercise lead to mastery.",
+    "explanation": "Skill is not granted but built. The proverb encourages persistence through repetition — every attempt, even a failed one, adds to eventual mastery."
+  }
+]

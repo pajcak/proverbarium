@@ -1,0 +1,23 @@
+.proverb-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-card-gap);
+}
+
+.proverb-list-item {
+  animation: list-item-in var(--motion-slow) var(--easing-emphasized) both;
+}
+
+@keyframes list-item-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

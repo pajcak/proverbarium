@@ -1,0 +1,29 @@
+.lang-switcher {
+  display: inline-flex;
+  padding: 3px;
+  gap: 2px;
+  border-radius: var(--radius-full);
+  background: var(--md-surface-container);
+  border: 1px solid var(--md-outline-variant);
+}
+
+.lang-option {
+  padding: 6px 14px;
+  border-radius: var(--radius-full);
+  font-size: var(--type-label-large);
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: var(--md-on-surface-variant);
+  transition:
+    background-color var(--motion-fast) var(--easing-standard),
+    color var(--motion-fast) var(--easing-standard);
+}
+
+.lang-option:hover {
+  color: var(--md-on-surface);
+}
+
+.lang-option.is-active {
+  background: var(--md-primary);
+  color: var(--md-on-primary);
+}

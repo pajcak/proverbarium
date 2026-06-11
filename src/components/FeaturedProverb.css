@@ -1,0 +1,36 @@
+.featured-proverb {
+  margin-top: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  min-height: 76px;
+}
+
+.featured-proverb-placeholder {
+  visibility: hidden;
+}
+
+.featured-proverb-label {
+  font-size: var(--type-label-medium);
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--md-on-surface-muted);
+}
+
+.featured-proverb-text {
+  font-size: var(--type-title-large);
+  font-weight: 500;
+  font-style: italic;
+  color: var(--md-on-surface-variant);
+  max-width: 60ch;
+  border-radius: var(--radius-s);
+  transition:
+    opacity var(--motion-medium) var(--easing-standard),
+    color var(--motion-fast) var(--easing-standard);
+}
+
+.featured-proverb-text:hover {
+  color: var(--md-primary);
+}

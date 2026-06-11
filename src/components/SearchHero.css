@@ -1,0 +1,106 @@
+.search-hero {
+  padding-top: clamp(48px, 9vh, 96px);
+  text-align: center;
+}
+
+.search-hero-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.search-hero-title {
+  font-size: var(--type-display-large);
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  line-height: 1.12;
+  color: var(--md-on-surface);
+  max-width: 18ch;
+}
+
+.search-hero-subtitle {
+  margin-top: 16px;
+  font-size: var(--type-body-large);
+  color: var(--md-on-surface-variant);
+  max-width: 44ch;
+}
+
+/* ---- Search field: the dominant element ---- */
+.search-field-wrap {
+  width: 100%;
+  max-width: 640px;
+  margin-top: 36px;
+}
+
+.search-field {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  padding: 6px 10px 6px 20px;
+  min-height: 60px;
+  background: var(--md-surface);
+  border: 1px solid var(--md-outline-variant);
+  border-radius: var(--radius-xl);
+  box-shadow: var(--elevation-2);
+  transition:
+    box-shadow var(--motion-medium) var(--easing-standard),
+    border-color var(--motion-medium) var(--easing-standard);
+}
+
+.search-field:focus-within {
+  border-color: var(--md-primary);
+  box-shadow: var(--elevation-3);
+}
+
+.search-icon {
+  flex-shrink: 0;
+  color: var(--md-on-surface-muted);
+}
+
+.search-input {
+  flex: 1;
+  min-width: 0;
+  border: none;
+  outline: none;
+  background: transparent;
+  font-size: var(--type-body-large);
+  color: var(--md-on-surface);
+  padding: 12px 0;
+}
+
+.search-input::placeholder {
+  color: var(--md-on-surface-muted);
+}
+
+.search-input::-webkit-search-cancel-button {
+  display: none;
+}
+
+.search-clear {
+  display: grid;
+  place-items: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  color: var(--md-on-surface-variant);
+  transition: background-color var(--motion-fast) var(--easing-standard);
+}
+
+.search-clear:hover {
+  background: var(--md-surface-container-high);
+}
+
+/* Mobile: keep the search within thumb's reach while scrolling. */
+@media (max-width: 640px) {
+  .search-hero {
+    padding-top: 40px;
+  }
+
+  .search-field-wrap {
+    position: sticky;
+    top: 72px;
+    z-index: 15;
+    margin-top: 28px;
+  }
+}

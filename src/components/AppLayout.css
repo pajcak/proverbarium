@@ -1,0 +1,24 @@
+.app-layout {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.app-main {
+  flex: 1;
+  padding-bottom: var(--space-section);
+}
+
+.app-footer {
+  margin-top: var(--space-section);
+  padding: 32px 0;
+  border-top: 1px solid var(--md-outline-variant);
+  color: var(--md-on-surface-muted);
+  font-size: var(--type-label-large);
+  text-align: center;
+}
+
+.app-footer-brand {
+  font-weight: 600;
+  color: var(--md-on-surface-variant);
+}

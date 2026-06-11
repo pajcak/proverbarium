@@ -1,0 +1,89 @@
+.proverb-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: var(--space-card-padding);
+  background: var(--md-surface);
+  border: 1px solid var(--md-outline-variant);
+  border-radius: var(--radius-l);
+  box-shadow: var(--elevation-1);
+  transition:
+    box-shadow var(--motion-fast) var(--easing-standard),
+    transform var(--motion-fast) var(--easing-standard);
+  will-change: transform;
+}
+
+.proverb-card:hover,
+.proverb-card:focus-within {
+  box-shadow: var(--elevation-3);
+  transform: translateY(-3px) scale(1.01);
+}
+
+/* The whole card acts as the proverb link. */
+.proverb-card-main-link::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: var(--radius-l);
+}
+
+.proverb-card-badge {
+  align-self: flex-start;
+  font-size: var(--type-label-medium);
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  color: var(--md-on-primary-container);
+  background: var(--md-primary-container);
+  padding: 3px 10px;
+  border-radius: var(--radius-full);
+}
+
+.proverb-card-text {
+  font-size: var(--type-title-large);
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  line-height: 1.4;
+  color: var(--md-on-surface);
+  max-width: 60ch;
+}
+
+.proverb-card-meaning {
+  font-size: var(--type-body-medium);
+  color: var(--md-on-surface-variant);
+  max-width: 65ch;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.proverb-card-concepts {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 2px 0 0;
+  padding: 0;
+}
+
+/* Chips float above the stretched link so they stay clickable. */
+.concept-tag {
+  position: relative;
+  z-index: 1;
+  display: inline-block;
+  font-size: var(--type-label-medium);
+  font-weight: 500;
+  color: var(--md-on-secondary-container);
+  background: var(--md-secondary-container);
+  padding: 3px 12px;
+  border-radius: var(--radius-full);
+  transition:
+    box-shadow var(--motion-fast) var(--easing-standard),
+    transform var(--motion-fast) var(--easing-standard);
+}
+
+.concept-tag:hover {
+  box-shadow: var(--elevation-1);
+  transform: translateY(-1px);
+}

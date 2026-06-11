@@ -1,0 +1,28 @@
+.skeleton-card {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  padding: var(--space-card-padding);
+  background: var(--md-surface);
+  border: 1px solid var(--md-outline-variant);
+  border-radius: var(--radius-l);
+  box-shadow: var(--elevation-1);
+}
+
+.skeleton-chips {
+  display: flex;
+  gap: 8px;
+  margin-top: 2px;
+}
+
+.skeleton-chip {
+  width: 76px;
+  height: 24px;
+  border-radius: var(--radius-full);
+}
+
+.skeleton-list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-card-gap);
+}
