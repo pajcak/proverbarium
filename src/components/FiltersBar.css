@@ -1,7 +1,9 @@
 .filters-bar {
   display: flex;
-  flex-direction: column;
-  gap: 12px;
+  flex-wrap: wrap;
+  align-items: center;
+  column-gap: 24px;
+  row-gap: 14px;
   margin-bottom: 28px;
   animation: filters-in var(--motion-medium) var(--easing-emphasized) both;
 }
@@ -17,28 +19,57 @@
   }
 }
 
-.filters-row {
+/* Desktop: label sits beside its chips; language + sort share a line,
+   concepts take the full width below and wrap. */
+.filters-group {
   display: flex;
   align-items: center;
-  gap: 8px;
-  flex-wrap: wrap;
+  gap: 10px;
+  min-width: 0;
+}
+
+.filters-group--scroll {
+  flex-basis: 100%;
+  align-items: flex-start;
+}
+
+.filters-group--scroll .filters-label {
+  /* Aligns the label with the first line of 32px chips. */
+  line-height: 32px;
 }
 
 .filters-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  flex-shrink: 0;
   font-size: var(--type-label-medium);
   font-weight: 600;
   letter-spacing: 0.06em;
   text-transform: uppercase;
   color: var(--md-on-surface-muted);
-  margin-right: 4px;
   white-space: nowrap;
 }
 
-.filters-divider {
-  width: 1px;
-  height: 20px;
-  background: var(--md-outline-variant);
-  margin: 0 8px;
+.filters-badge {
+  min-width: 18px;
+  height: 18px;
+  padding: 0 5px;
+  border-radius: var(--radius-full);
+  background: var(--md-secondary-container);
+  color: var(--md-on-secondary-container);
+  font-size: 0.6875rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 18px;
+  text-align: center;
+}
+
+.filters-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  min-width: 0;
 }
 
 /* MD3 filter chip */
@@ -46,11 +77,12 @@
   display: inline-flex;
   align-items: center;
   gap: 6px;
+  flex-shrink: 0;
   height: 32px;
   padding: 0 14px;
   border-radius: var(--radius-s);
   border: 1px solid var(--md-outline-variant);
-  background: transparent;
+  background: var(--md-surface);
   font-size: var(--type-label-large);
   font-weight: 500;
   color: var(--md-on-surface-variant);
@@ -65,23 +97,67 @@
   background: var(--md-surface-container);
 }
 
+.filter-chip:focus-visible {
+  outline: 2px solid var(--md-primary);
+  outline-offset: 2px;
+}
+
 .filter-chip.is-selected {
   background: var(--md-secondary-container);
   border-color: transparent;
   color: var(--md-on-secondary-container);
 }
 
-/* Mobile: chips scroll horizontally instead of wrapping. */
+.filter-chip.is-selected svg {
+  margin-left: -4px;
+}
+
+/* ---------------------------------------------------------------- mobile */
 @media (max-width: 640px) {
-  .filters-row {
-    flex-wrap: nowrap;
-    overflow-x: auto;
-    padding-bottom: 4px;
-    scrollbar-width: none;
-    -webkit-overflow-scrolling: touch;
+  .filters-bar {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    align-items: start;
+    column-gap: 16px;
+    row-gap: 18px;
   }
 
-  .filters-row::-webkit-scrollbar {
+  /* Label above chips, so it never scrolls away with them. */
+  .filters-group {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 8px;
+  }
+
+  .filters-group--scroll {
+    grid-column: 1 / -1;
+  }
+
+  .filters-group--scroll .filters-label {
+    line-height: normal;
+  }
+
+  /* Comfortable touch targets. */
+  .filter-chip {
+    height: 36px;
+    padding: 0 14px;
+  }
+
+  /* Concepts: one scrollable line, bleeding to the screen edges so the cut-off
+     chip and the edge fade both signal that there is more to swipe. */
+  .filters-group--scroll .filters-chips {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    margin-inline: -16px;
+    padding: 2px 16px 6px;
+    scroll-padding-inline: 16px;
+    scrollbar-width: none;
+    -webkit-overflow-scrolling: touch;
+    -webkit-mask-image: linear-gradient(to right, #000 calc(100% - 28px), transparent);
+    mask-image: linear-gradient(to right, #000 calc(100% - 28px), transparent);
+  }
+
+  .filters-group--scroll .filters-chips::-webkit-scrollbar {
     display: none;
   }
 }

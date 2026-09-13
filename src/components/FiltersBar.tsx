@@ -1,3 +1,4 @@
+import { useId, type ReactNode } from "react";
 import { useI18n } from "../i18n/I18nContext";
 import { useRipple } from "../hooks/useRipple";
 import type { Concept, LanguageCode } from "../data/types";
@@ -48,9 +49,35 @@ function FilterChip({ label, selected, onClick }: ChipProps) {
   );
 }
 
+interface FilterGroupProps {
+  label: string;
+  /** Shown next to the label, e.g. how many chips are selected. */
+  badge?: number;
+  variant: "compact" | "scroll";
+  children: ReactNode;
+}
+
+function FilterGroup({ label, badge, variant, children }: FilterGroupProps) {
+  const labelId = useId();
+  return (
+    <div
+      className={`filters-group filters-group--${variant}`}
+      role="group"
+      aria-labelledby={labelId}
+    >
+      <span className="filters-label" id={labelId}>
+        {label}
+        {badge ? <span className="filters-badge">{badge}</span> : null}
+      </span>
+      <div className="filters-chips">{children}</div>
+    </div>
+  );
+}
+
 /**
  * Progressive disclosure: rendered only once search results exist.
- * Rows scroll horizontally on small screens.
+ * Each group keeps its label visible; on small screens the concept chips
+ * scroll horizontally while language and sort wrap in two columns.
  */
 export function FiltersBar({
   availableConcepts,
@@ -66,8 +93,7 @@ export function FiltersBar({
 
   return (
     <div className="filters-bar">
-      <div className="filters-row" role="group" aria-label={t.filterLanguage}>
-        <span className="filters-label">{t.filterLanguage}</span>
+      <FilterGroup label={t.filterLanguage} variant="compact">
         {languages.map((code) => (
           <FilterChip
             key={code}
@@ -76,8 +102,9 @@ export function FiltersBar({
             onClick={() => onToggleLanguage(code)}
           />
         ))}
-        <span className="filters-divider" aria-hidden="true" />
-        <span className="filters-label">{t.filterSort}</span>
+      </FilterGroup>
+
+      <FilterGroup label={t.filterSort} variant="compact">
         <FilterChip
           label={t.sortRelevance}
           selected={sort === "relevance"}
@@ -88,11 +115,14 @@ export function FiltersBar({
           selected={sort === "alphabetical"}
           onClick={() => onSortChange("alphabetical")}
         />
-      </div>
+      </FilterGroup>
 
       {availableConcepts.length > 0 && (
-        <div className="filters-row" role="group" aria-label={t.filterConcepts}>
-          <span className="filters-label">{t.filterConcepts}</span>
+        <FilterGroup
+          label={t.filterConcepts}
+          badge={selectedConcepts.size}
+          variant="scroll"
+        >
           {availableConcepts.map((concept) => (
             <FilterChip
               key={concept.id}
@@ -101,7 +131,7 @@ export function FiltersBar({
               onClick={() => onToggleConcept(concept.id)}
             />
           ))}
-        </div>
+        </FilterGroup>
       )}
     </div>
   );
