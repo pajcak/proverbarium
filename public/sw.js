@@ -4,7 +4,11 @@
  * cache-first for static assets (instant repeat loads, offline reading).
  */
 const CACHE_NAME = "proverbarium-v1";
-const APP_SHELL = ["/", "/index.html", "/manifest.webmanifest", "/icon.svg"];
+// Paths resolve against the registration scope so the app works under a
+// sub-path (e.g. GitHub Pages: https://user.github.io/repo/).
+const SCOPE = self.registration.scope;
+const SHELL_URL = `${SCOPE}index.html`;
+const APP_SHELL = [SCOPE, SHELL_URL, `${SCOPE}manifest.webmanifest`, `${SCOPE}icon.svg`];
 
 self.addEventListener("install", (event) => {
   event.waitUntil(
@@ -39,10 +43,10 @@ self.addEventListener("fetch", (event) => {
       fetch(request)
         .then((response) => {
           const copy = response.clone();
-          caches.open(CACHE_NAME).then((cache) => cache.put("/index.html", copy));
+          caches.open(CACHE_NAME).then((cache) => cache.put(SHELL_URL, copy));
           return response;
         })
-        .catch(() => caches.match("/index.html")),
+        .catch(() => caches.match(SHELL_URL)),
     );
     return;
   }

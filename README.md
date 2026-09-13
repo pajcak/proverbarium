@@ -15,6 +15,32 @@ npm run build    # type-check + production build
 npm run preview  # serve the production build (service worker active)
 ```
 
+## Deploy to GitHub Pages
+
+Deployment is automated by `.github/workflows/deploy.yml`: every push to
+`main` builds the app and publishes it to
+`https://<user>.github.io/<repo-name>/`.
+
+One-time setup: in the repository on GitHub, open **Settings → Pages** and
+set **Source** to **GitHub Actions**. The first deploy then runs on the next
+push (or start it manually from the **Actions** tab).
+
+How it works:
+
+- The base path is taken from the repository name at build time
+  (`--base=/<repo-name>/`), so renaming the repository needs no code change.
+- The router and service worker read that base path, so all links and
+  offline caching work under the sub-path.
+- GitHub Pages has no fallback for client-side routes, so the workflow copies
+  `index.html` to `404.html` — deep links such as `/proverb/cs-01` still load.
+
+To build locally the same way:
+
+```bash
+npm run build -- --base=/proverbarium/
+npm run preview -- --base=/proverbarium/
+```
+
 ## Architecture
 
 ```
