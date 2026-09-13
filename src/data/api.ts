@@ -138,6 +138,24 @@ export function search(query: string): Promise<SearchResult[]> {
   return delay(searchProverbs(searchIndex, query));
 }
 
+/**
+ * Every proverb (all languages) linked to any of the given concepts, strongest
+ * link first — the result set behind a topic filter.
+ */
+export function searchByConcepts(conceptIds: number[]): Promise<SearchResult[]> {
+  const wanted = new Set(conceptIds);
+  const results = ALL_PROVERBS.map((proverb) => ({
+    proverb,
+    score: Math.max(
+      0,
+      ...proverb.concepts.filter((c) => wanted.has(c.id)).map((c) => c.weight),
+    ),
+  }))
+    .filter((result) => result.score > 0)
+    .sort((a, b) => b.score - a.score || a.proverb.text.localeCompare(b.proverb.text));
+  return delay(results);
+}
+
 /** Same-language neighbors, ranked by weighted concept overlap. */
 export function getSimilarProverbs(id: string, limit = 4): Promise<ProverbWithConcepts[]> {
   const source = proverbById.get(id);

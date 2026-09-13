@@ -34,10 +34,26 @@ export function HomePage() {
   const [selectedLanguages, setSelectedLanguages] = useState<Set<LanguageCode>>(
     () => new Set<LanguageCode>(["cs", "en"]),
   );
-  const [selectedConcepts, setSelectedConcepts] = useState<Set<number>>(
-    () => new Set(),
-  );
   const [sort, setSort] = useState<SortOrder>("relevance");
+  const [allConcepts, setAllConcepts] = useState<Concept[]>([]);
+
+  // Selected topics live in the URL (?topic=3&topic=7): concept tags link
+  // straight to a pre-selected filter, and the view stays shareable and
+  // back-button safe.
+  const topicParam = searchParams.getAll("topic").join(",");
+  const selectedConcepts = useMemo<ReadonlySet<number>>(
+    () =>
+      new Set(
+        topicParam
+          .split(",")
+          .map(Number)
+          .filter((id) => Number.isInteger(id) && id > 0),
+      ),
+    [topicParam],
+  );
+  const topicKey = [...selectedConcepts].sort((a, b) => a - b).join(",");
+  const chipToggleRef = useRef(false);
+  const previousTopicKey = useRef(topicKey);
 
   // ---- browse state (random proverbs) ----
   const [browseItems, setBrowseItems] = useState<ProverbWithConcepts[]>([]);
@@ -54,7 +70,15 @@ export function HomePage() {
     lastTypedQuery.current = trimmedQuery;
     const current = searchParams.get("q") ?? "";
     if (current === trimmedQuery) return;
-    setSearchParams(trimmedQuery ? { q: trimmedQuery } : {}, { replace: true });
+    setSearchParams(
+      (prev) => {
+        const next = new URLSearchParams(prev);
+        if (trimmedQuery) next.set("q", trimmedQuery);
+        else next.delete("q");
+        return next;
+      },
+      { replace: true },
+    );
   }, [trimmedQuery, searchParams, setSearchParams]);
 
   // The reverse: a URL change while this page stays mounted updates the query.
@@ -63,7 +87,7 @@ export function HomePage() {
     setQuery((current) => {
       if (urlQuery === current.trim()) return current;
       lastTypedQuery.current = urlQuery;
-      window.scrollTo({ top: 0 });
+      window.scrollTo({ top: 0, behavior: "instant" as ScrollBehavior });
       return urlQuery;
     });
   }, [searchParams]);
@@ -83,25 +107,51 @@ export function HomePage() {
     };
   }, [language]);
 
-  // Realtime search with 300ms debounce.
+  // Concept names for selected topics that the current results may not contain.
   useEffect(() => {
-    if (trimmedQuery.length === 0) {
+    api.getConcepts().then(setAllConcepts);
+  }, []);
+
+  // A topic change from outside the filter bar (a concept tag, back/forward)
+  // opens a fresh view at the top. Chip toggles set chipToggleRef first and
+  // keep the page where it is. Without this, the brief skeleton state shrinks
+  // the page and the browser clamps the scroll position mid-list.
+  useEffect(() => {
+    if (previousTopicKey.current === topicKey) return;
+    previousTopicKey.current = topicKey;
+    if (chipToggleRef.current) {
+      chipToggleRef.current = false;
+      return;
+    }
+    if (topicKey) {
+      window.scrollTo({ top: 0, behavior: "instant" as ScrollBehavior });
+    }
+  }, [topicKey]);
+
+  // Results: a text query searches (topics then narrow it); without a query,
+  // the selected topics themselves define the result set.
+  const topicSource = trimmedQuery.length > 0 ? "" : topicKey;
+  useEffect(() => {
+    if (trimmedQuery.length === 0 && topicSource.length === 0) {
       setResults(null);
       setSearching(false);
       return;
     }
     let cancelled = false;
     setSearching(true);
-    api.search(trimmedQuery).then((found) => {
+    const request =
+      trimmedQuery.length > 0
+        ? api.search(trimmedQuery)
+        : api.searchByConcepts(topicSource.split(",").map(Number));
+    request.then((found) => {
       if (cancelled) return;
       setResults(found);
-      setSelectedConcepts(new Set());
       setSearching(false);
     });
     return () => {
       cancelled = true;
     };
-  }, [trimmedQuery]);
+  }, [trimmedQuery, topicSource]);
 
   const loadMore = () => {
     setLoadingMore(true);
@@ -125,12 +175,19 @@ export function HomePage() {
   };
 
   const toggleConcept = (id: number) => {
-    setSelectedConcepts((current) => {
-      const next = new Set(current);
-      if (next.has(id)) next.delete(id);
-      else next.add(id);
-      return next;
-    });
+    chipToggleRef.current = true;
+    const next = new Set(selectedConcepts);
+    if (next.has(id)) next.delete(id);
+    else next.add(id);
+    setSearchParams(
+      (prev) => {
+        const params = new URLSearchParams(prev);
+        params.delete("topic");
+        for (const topicId of next) params.append("topic", String(topicId));
+        return params;
+      },
+      { replace: true },
+    );
   };
 
   const availableConcepts = useMemo<Concept[]>(() => {
@@ -141,10 +198,18 @@ export function HomePage() {
         byId.set(concept.id, concept);
       }
     }
-    return [...byId.values()].sort((a, b) =>
-      a.name[language].localeCompare(b.name[language], language),
+    // A selected topic must stay visible (and removable) even when the
+    // current query's results don't contain it.
+    for (const concept of allConcepts) {
+      if (selectedConcepts.has(concept.id)) byId.set(concept.id, concept);
+    }
+    // Selected topics lead the list, the rest follow alphabetically.
+    return [...byId.values()].sort(
+      (a, b) =>
+        Number(selectedConcepts.has(b.id)) - Number(selectedConcepts.has(a.id)) ||
+        a.name[language].localeCompare(b.name[language], language),
     );
-  }, [results, language]);
+  }, [results, language, allConcepts, selectedConcepts]);
 
   const visibleResults = useMemo(() => {
     if (!results) return [];
@@ -164,7 +229,7 @@ export function HomePage() {
     return filtered;
   }, [results, selectedLanguages, selectedConcepts, sort, language]);
 
-  const isSearchMode = query.trim().length > 0;
+  const isSearchMode = query.trim().length > 0 || selectedConcepts.size > 0;
   const showSearchSkeletons = isSearchMode && results === null;
 
   return (
@@ -173,6 +238,7 @@ export function HomePage() {
         query={query}
         onQueryChange={setQuery}
         featuredPool={browseItems.slice(0, 5)}
+        showFeatured={!isSearchMode}
       />
 
       <div className="container home-content">

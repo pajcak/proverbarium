@@ -1,4 +1,4 @@
-import { useId, type ReactNode } from "react";
+import { useEffect, useId, useRef, type ReactNode } from "react";
 import { useI18n } from "../i18n/I18nContext";
 import { useRipple } from "../hooks/useRipple";
 import type { Concept, LanguageCode } from "../data/types";
@@ -54,11 +54,23 @@ interface FilterGroupProps {
   /** Shown next to the label, e.g. how many chips are selected. */
   badge?: number;
   variant: "compact" | "scroll";
+  /** Changes whenever the selection changes; resets horizontal scroll. */
+  selectionKey?: string;
   children: ReactNode;
 }
 
-function FilterGroup({ label, badge, variant, children }: FilterGroupProps) {
+function FilterGroup({ label, badge, variant, selectionKey, children }: FilterGroupProps) {
   const labelId = useId();
+  const chipsRef = useRef<HTMLDivElement>(null);
+
+  // Selected chips move to the front, so bring the scrollable row back to its
+  // start — otherwise the chip just tapped would slide out of view.
+  useEffect(() => {
+    const row = chipsRef.current;
+    if (!row || row.scrollLeft === 0) return;
+    const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    row.scrollTo({ left: 0, behavior: reduceMotion ? "auto" : "smooth" });
+  }, [selectionKey]);
   return (
     <div
       className={`filters-group filters-group--${variant}`}
@@ -69,7 +81,9 @@ function FilterGroup({ label, badge, variant, children }: FilterGroupProps) {
         {label}
         {badge ? <span className="filters-badge">{badge}</span> : null}
       </span>
-      <div className="filters-chips">{children}</div>
+      <div className="filters-chips" ref={chipsRef}>
+        {children}
+      </div>
     </div>
   );
 }
@@ -122,6 +136,7 @@ export function FiltersBar({
           label={t.filterConcepts}
           badge={selectedConcepts.size}
           variant="scroll"
+          selectionKey={[...selectedConcepts].sort((a, b) => a - b).join(",")}
         >
           {availableConcepts.map((concept) => (
             <FilterChip

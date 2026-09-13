@@ -8,9 +8,16 @@ interface SearchHeroProps {
   query: string;
   onQueryChange: (query: string) => void;
   featuredPool: ProverbWithConcepts[];
+  /** False while results are shown (text search or topic filter). */
+  showFeatured: boolean;
 }
 
-export function SearchHero({ query, onQueryChange, featuredPool }: SearchHeroProps) {
+export function SearchHero({
+  query,
+  onQueryChange,
+  featuredPool,
+  showFeatured,
+}: SearchHeroProps) {
   const { t } = useI18n();
   const inputRef = useRef<HTMLInputElement>(null);
 
@@ -67,7 +74,7 @@ export function SearchHero({ query, onQueryChange, featuredPool }: SearchHeroPro
           </div>
         </div>
 
-        {query.trim().length === 0 && <FeaturedProverb proverbs={featuredPool} />}
+        {showFeatured && <FeaturedProverb proverbs={featuredPool} />}
       </div>
     </section>
   );

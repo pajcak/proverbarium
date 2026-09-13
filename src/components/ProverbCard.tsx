@@ -34,7 +34,7 @@ export function ProverbCard({ proverb, showLanguageBadge = false }: ProverbCardP
           {proverb.concepts.map((concept) => (
             <li key={concept.id}>
               <Link
-                to={`/?q=${encodeURIComponent(concept.name[language])}`}
+                to={`/?topic=${concept.id}`}
                 className="concept-tag"
               >
                 {concept.name[language]}

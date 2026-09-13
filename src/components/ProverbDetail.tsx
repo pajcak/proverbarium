@@ -44,7 +44,7 @@ export function ProverbDetail({ proverb }: { proverb: ProverbWithConcepts }) {
             {proverb.concepts.map((concept, index) => (
               <li key={concept.id}>
                 <Link
-                  to={`/?q=${encodeURIComponent(concept.name[language])}`}
+                  to={`/?topic=${concept.id}`}
                   className={
                     index === 0
                       ? "detail-concept-chip is-primary"
