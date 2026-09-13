@@ -1,9 +1,9 @@
 /*
- * Proverbia service worker — offline-friendly app shell caching.
+ * Proverbarium service worker — offline-friendly app shell caching.
  * Network-first for navigations (fresh content when online),
  * cache-first for static assets (instant repeat loads, offline reading).
  */
-const CACHE_NAME = "proverbia-v1";
+const CACHE_NAME = "proverbarium-v1";
 const APP_SHELL = ["/", "/index.html", "/manifest.webmanifest", "/icon.svg"];
 
 self.addEventListener("install", (event) => {

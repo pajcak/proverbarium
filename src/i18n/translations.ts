@@ -41,7 +41,7 @@ export interface Translation {
 
 export const TRANSLATIONS: Record<LanguageCode, Translation> = {
   cs: {
-    appName: "Proverbia",
+    appName: "Proverbarium",
     appTagline: "knihovna moudrosti",
     heroTitle: "Objevte moudrost generací",
     heroSubtitle: "Hledejte přísloví, významy a kulturní souvislosti.",
@@ -80,7 +80,7 @@ export const TRANSLATIONS: Record<LanguageCode, Translation> = {
     languageNames: { cs: "Čeština", en: "English" },
   },
   en: {
-    appName: "Proverbia",
+    appName: "Proverbarium",
     appTagline: "a library of wisdom",
     heroTitle: "Discover wisdom from generations",
     heroSubtitle: "Search proverbs, meanings, and cultural insights.",

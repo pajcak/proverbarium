@@ -16,7 +16,7 @@ interface I18nValue {
   setLanguage: (code: LanguageCode) => void;
 }
 
-const STORAGE_KEY = "proverbia.language";
+const STORAGE_KEY = "proverbarium.language";
 const DEFAULT_LANGUAGE: LanguageCode = "cs";
 
 const I18nContext = createContext<I18nValue | null>(null);

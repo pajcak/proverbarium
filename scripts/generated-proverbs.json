@@ -1510,5 +1510,384 @@
     "example_usage": "“He scratched your car, and you slashed his tyres? Two wrongs do not make a right.”",
     "origin": "Attested in English since the 18th century.",
     "concepts": [{ "cs": "Spravedlnost", "en": "Justice" }, { "cs": "Sebeovládání", "en": "Self-control" }]
+  },
+  {
+    "language": "cs",
+    "text": "Konec dobrý, všechno dobré.",
+    "meaning": "Když věc dobře dopadne, na potížích cestou nezáleží.",
+    "explanation": "Hodnotu celého podniku určuje jeho výsledek — šťastný konec zpětně odpouští všechny nezdary, které mu předcházely. Přísloví je úlevným povzdechem po překonaných těžkostech.",
+    "example_usage": "„Málem jim ujel vlak a v hotelu ztratili rezervaci, ale svatba byla nakonec nádherná. Konec dobrý, všechno dobré.“",
+    "origin": "Středověké evropské přísloví; anglická podoba je doložena už v kronice z roku 1381.",
+    "concepts": ["Důsledky", { "cs": "Naděje", "en": "Hope" }]
+  },
+  {
+    "language": "en",
+    "text": "All's well that ends well.",
+    "meaning": "If the outcome is good, the troubles along the way do not matter.",
+    "explanation": "The worth of an undertaking is judged by how it finishes — a happy ending retroactively forgives every setback that led to it. The proverb is a sigh of relief after difficulty.",
+    "example_usage": "“They nearly missed the flight and the hotel lost their booking, but the wedding was perfect. All's well that ends well.”",
+    "origin": "Proverbial long before Shakespeare's play; the earliest attestation is in the Chronicon Henrici Knighton (1381).",
+    "concepts": ["Důsledky", { "cs": "Naděje", "en": "Hope" }]
+  },
+  {
+    "language": "cs",
+    "text": "Všechny cesty vedou do Říma.",
+    "meaning": "K témuž cíli lze dojít mnoha různými způsoby.",
+    "explanation": "Ze všech koutů říše mířily silnice do jednoho středu. Přísloví připomíná, že o způsobu se netřeba hádat — důležité je, kam se dojde, ne kudy.",
+    "example_usage": "„Ty to počítáš v tabulce, on ručně — ale výsledek máte stejný. Všechny cesty vedou do Říma.“",
+    "origin": "Ze středověké latiny Alaina z Lille (Liber Parabolarum, 1175), odkazující na síť římských silnic.",
+    "concepts": ["Moudrost", { "cs": "Přizpůsobení", "en": "Adaptation" }]
+  },
+  {
+    "language": "en",
+    "text": "All roads lead to Rome.",
+    "meaning": "The same goal can be reached by many different paths.",
+    "explanation": "From every corner of the empire the roads ran to a single centre. The proverb reminds us not to quarrel over method — what matters is where you arrive, not which way you took.",
+    "example_usage": "“You use a spreadsheet, she does it on paper, and you both get the same number. All roads lead to Rome.”",
+    "origin": "From Alain de Lille's medieval Latin (Liber Parabolarum, 1175); in English since Chaucer (1391).",
+    "concepts": ["Moudrost", { "cs": "Přizpůsobení", "en": "Adaptation" }]
+  },
+  {
+    "language": "cs",
+    "text": "Jak si kdo ustele, tak si také lehne.",
+    "meaning": "Každý nese následky svých vlastních rozhodnutí.",
+    "explanation": "Lůžko si stele každý sám — a spát v něm bude taky sám. Přísloví odmítá stěžování si na situaci, kterou si člověk vlastními kroky připravil.",
+    "example_usage": "„Nechal studia kvůli té brigádě a teď si stěžuje na plat. Jak si kdo ustele, tak si také lehne.“",
+    "origin": "Evropské přísloví; v angličtině doloženo od počátku 19. století, starší podoby jsou i ve francouzštině a němčině.",
+    "concepts": ["Důsledky", { "cs": "Odpovědnost", "en": "Responsibility" }]
+  },
+  {
+    "language": "en",
+    "text": "As you make your bed, so you must lie in it.",
+    "meaning": "You must live with the consequences of your own choices.",
+    "explanation": "You make your own bed — and you are the one who sleeps in it. The proverb refuses sympathy for a situation somebody arranged by their own steps.",
+    "example_usage": "“He dropped out for that job and now complains about the pay. As you make your bed, so you must lie in it.”",
+    "origin": "Recorded in English in Cobbett's Political Register (1806), already described there as an old saying.",
+    "concepts": ["Důsledky", { "cs": "Odpovědnost", "en": "Responsibility" }]
+  },
+  {
+    "language": "cs",
+    "text": "Vrána vráně oči nevyklove.",
+    "meaning": "Lidé stejného druhu si navzájem neublíží a kryjí se.",
+    "explanation": "Přísloví popisuje solidaritu uvnitř skupiny — kolegů, úředníků, mocných. Užívá se většinou kriticky: tam, kde by měla platit spravedlnost, vítězí stavovská soudržnost.",
+    "example_usage": "„Stížnost na úředníka prošetřoval jeho vlastní odbor a nic nenašel. Vrána vráně oči nevyklove.“",
+    "origin": "Z latinského „Cornix cornici oculos non effodiet“; v češtině doloženo od raného novověku.",
+    "concepts": [{ "cs": "Spolupráce", "en": "Cooperation" }, { "cs": "Spravedlnost", "en": "Justice" }]
+  },
+  {
+    "language": "en",
+    "text": "Dog does not eat dog.",
+    "meaning": "People of the same kind do not harm one another.",
+    "explanation": "The proverb describes solidarity within a group — colleagues, officials, the powerful. It is usually said critically: where justice should rule, professional loyalty wins instead.",
+    "example_usage": "“The complaint about the officer was investigated by his own department and quietly dropped. Dog does not eat dog.”",
+    "origin": "From the Latin “canis caninam non est”, recorded by Varro; proverbial in English since the 16th century.",
+    "concepts": [{ "cs": "Spolupráce", "en": "Cooperation" }, { "cs": "Spravedlnost", "en": "Justice" }]
+  },
+  {
+    "language": "cs",
+    "text": "Výjimka potvrzuje pravidlo.",
+    "meaning": "Nutnost vyslovit výjimku dokazuje, že jinak pravidlo platí.",
+    "explanation": "Když se pro určitý případ stanoví zvláštní úleva, znamená to, že pro všechny ostatní případy platí obecné pravidlo. Přísloví pochází z právnického myšlení, i když se dnes často užívá volně.",
+    "example_usage": "„Cedule povoluje parkování jen v neděli — tedy ve všední dny se tu parkovat nesmí. Výjimka potvrzuje pravidlo.“",
+    "origin": "Z latinské právní zásady „exceptio probat regulam in casibus non exceptis“, připisované Ciceronovi.",
+    "concepts": ["Moudrost", { "cs": "Spravedlnost", "en": "Justice" }]
+  },
+  {
+    "language": "en",
+    "text": "The exception proves the rule.",
+    "meaning": "Stating an exception shows that a general rule exists.",
+    "explanation": "If a special allowance has to be spelled out for one case, a general rule must govern all the others. The proverb comes from legal reasoning, though it is often used loosely today.",
+    "example_usage": "“The sign permits parking on Sundays only — which tells you it's forbidden the rest of the week. The exception proves the rule.”",
+    "origin": "From the Latin legal maxim “exceptio probat regulam in casibus non exceptis”, attributed to Cicero.",
+    "concepts": ["Moudrost", { "cs": "Spravedlnost", "en": "Justice" }]
+  },
+  {
+    "language": "cs",
+    "text": "Lékař léčí a Bůh uzdravuje.",
+    "meaning": "Člověk udělá, co umí, ale výsledek nemá ve své moci.",
+    "explanation": "Lékař ošetří ránu, hojí se však sama. Přísloví odděluje lidské úsilí od konečného výsledku a učí pokoře i tam, kde jsme odvedli všechnu možnou práci.",
+    "example_usage": "„Operace se povedla, ale zbytek už byl na něm. Lékař léčí a Bůh uzdravuje.“",
+    "origin": "Ze středověké latiny „medicus curat, natura sanat“; anglickou podobu zapsal George Herbert (1640).",
+    "concepts": [{ "cs": "Zdraví", "en": "Health" }, { "cs": "Pokora", "en": "Humility" }]
+  },
+  {
+    "language": "en",
+    "text": "God heals, and the physician has the thanks.",
+    "meaning": "People do what they can, but the outcome is not in their hands.",
+    "explanation": "The doctor dresses the wound; the wound heals itself. The proverb separates human effort from the final result and teaches humility even where we did everything right.",
+    "example_usage": "“The surgery went well, but the rest was up to his body. God heals, and the physician has the thanks.”",
+    "origin": "Recorded in George Herbert's Outlandish Proverbs (1640), from the Latin “medicus curat, natura sanat”.",
+    "concepts": [{ "cs": "Zdraví", "en": "Health" }, { "cs": "Pokora", "en": "Humility" }]
+  },
+  {
+    "language": "cs",
+    "text": "Hlad je nejlepší kuchař.",
+    "meaning": "Kdo má hlad, tomu chutná všechno.",
+    "explanation": "Nouze mění měřítka — obyčejný chléb zachutná lépe než hostina tomu, kdo se nají dosyta. Přísloví připomíná, že hodnota věcí roste s tím, jak moc je potřebujeme.",
+    "example_usage": "„Po celodenní túře jim i suchý rohlík přišel jako hostina. Hlad je nejlepší kuchař.“",
+    "origin": "Z latinského „optimum condimentum fames“, které Cicero připisuje Sókratovi.",
+    "concepts": ["Spokojenost", { "cs": "Střídmost", "en": "Moderation" }]
+  },
+  {
+    "language": "en",
+    "text": "Hunger is the best sauce.",
+    "meaning": "When you are hungry, everything tastes good.",
+    "explanation": "Need changes the measure — plain bread beats a banquet for someone who has gone without. The proverb notes that the value of things grows with how much we need them.",
+    "example_usage": "“After eight hours on the trail, a dry roll tasted like a feast. Hunger is the best sauce.”",
+    "origin": "From the Latin “optimum condimentum fames”, which Cicero attributes to Socrates.",
+    "concepts": ["Spokojenost", { "cs": "Střídmost", "en": "Moderation" }]
+  },
+  {
+    "language": "cs",
+    "text": "Jestli se má něco pokazit, tak se to pokazí.",
+    "meaning": "Co se může pokazit, to se pokazí.",
+    "explanation": "Známý Murphyho zákon s rezignovaným humorem shrnuje zkušenost s technikou i s životem. Neříká, že svět je zlý — spíš radí počítat s nejhorší variantou a připravit se na ni.",
+    "example_usage": "„Projektor vypověděl službu přesně minutu před prezentací. Jestli se má něco pokazit, tak se to pokazí.“",
+    "origin": "Murphyho zákon, pojmenovaný po inženýru Edwardu A. Murphym ml. z raketových testů amerického letectva (1949).",
+    "concepts": ["Opatrnost", { "cs": "Štěstí", "en": "Luck" }]
+  },
+  {
+    "language": "en",
+    "text": "Anything that can go wrong will go wrong.",
+    "meaning": "If something has a chance of failing, it eventually will.",
+    "explanation": "Murphy's law sums up experience with machinery and with life in resigned good humour. It does not claim the world is malicious — it advises planning for the worst case and preparing for it.",
+    "example_usage": "“The projector died exactly one minute before the presentation. Anything that can go wrong will go wrong.”",
+    "origin": "Murphy's law, named after engineer Edward A. Murphy Jr. during US Air Force rocket-sled tests (1949).",
+    "concepts": ["Opatrnost", { "cs": "Štěstí", "en": "Luck" }]
+  },
+  {
+    "language": "cs",
+    "text": "Mezi slepými jednooký králem.",
+    "meaning": "I průměrná schopnost vynikne tam, kde ostatní neumějí nic.",
+    "explanation": "Hodnota schopností je vždy relativní vůči okolí. Přísloví zároveň varuje před falešným sebevědomím — kdo vyniká jen mezi nezkušenými, měl by se poměřit jinde.",
+    "example_usage": "„Ve firmě platil za počítačového experta, protože ostatní neuměli ani tisknout. Mezi slepými jednooký králem.“",
+    "origin": "Latinské „in regione caecorum rex est luscus“, které rozšířil Erasmus Rotterdamský ve sbírce Adagia (1500).",
+    "concepts": ["Zdání", "Moudrost"]
+  },
+  {
+    "language": "en",
+    "text": "In the land of the blind, the one-eyed man is king.",
+    "meaning": "Modest ability stands out where others have none.",
+    "explanation": "The worth of a skill is always relative to its surroundings. The proverb also warns against false confidence — whoever excels only among novices should measure themselves elsewhere.",
+    "example_usage": "“He was the office computer expert only because nobody else could print a document. In the land of the blind, the one-eyed man is king.”",
+    "origin": "The Latin “in regione caecorum rex est luscus”, popularised by Erasmus in his Adagia (1500).",
+    "concepts": ["Zdání", "Moudrost"]
+  },
+  {
+    "language": "cs",
+    "text": "Člověk míní, život mění.",
+    "meaning": "Plány málokdy vyjdou přesně tak, jak byly zamýšleny.",
+    "explanation": "Rozhodnutí je v našich rukou, výsledek nikoli — do každého plánu vstupují okolnosti, o kterých jsme nevěděli. Přísloví učí plánovat, a přesto zůstat pružný.",
+    "example_usage": "„Chtěli si vzít hypotéku na dům a nakonec se stěhovali za prací do jiného města. Člověk míní, život mění.“",
+    "origin": "Z latinského „homo proponit, sed Deus disponit“ Tomáše Kempenského (Následování Krista, 15. století).",
+    "concepts": [{ "cs": "Pokora", "en": "Humility" }, { "cs": "Štěstí", "en": "Luck" }]
+  },
+  {
+    "language": "en",
+    "text": "Man proposes, God disposes.",
+    "meaning": "Plans rarely work out exactly as intended.",
+    "explanation": "The decision is ours, the outcome is not — circumstances we never knew about enter every plan. The proverb teaches you to plan anyway, and to stay flexible.",
+    "example_usage": "“They were about to buy the house and ended up relocating for work instead. Man proposes, God disposes.”",
+    "origin": "A translation of Thomas à Kempis's Latin “homo proponit, sed Deus disponit” (The Imitation of Christ, 15th century).",
+    "concepts": [{ "cs": "Pokora", "en": "Humility" }, { "cs": "Štěstí", "en": "Luck" }]
+  },
+  {
+    "language": "cs",
+    "text": "Kdo hledá, najde.",
+    "meaning": "Kdo vytrvale usiluje, nakonec dosáhne svého.",
+    "explanation": "Hledání samo je polovina nálezu — kdo se ptá a nepřestává, dříve či později narazí na odpověď. Přísloví povzbuzuje k aktivitě proti pasivnímu čekání.",
+    "example_usage": "„Obvolala třicet dílen, než našla někoho, kdo ten motor uměl opravit. Kdo hledá, najde.“",
+    "origin": "Z Ježíšova kázání na hoře (Matouš 7,7).",
+    "concepts": [{ "cs": "Vytrvalost", "en": "Perseverance" }, { "cs": "Naděje", "en": "Hope" }]
+  },
+  {
+    "language": "en",
+    "text": "Seek and ye shall find.",
+    "meaning": "Persistent effort eventually finds what it looks for.",
+    "explanation": "The searching is half the finding — whoever keeps asking sooner or later meets an answer. The proverb urges action over passive waiting.",
+    "example_usage": "“She called thirty workshops before she found one that could rebuild the engine. Seek and ye shall find.”",
+    "origin": "From the Sermon on the Mount (Matthew 7:7).",
+    "concepts": [{ "cs": "Vytrvalost", "en": "Perseverance" }, { "cs": "Naděje", "en": "Hope" }]
+  },
+  {
+    "language": "cs",
+    "text": "Jiný kraj, jiný mrav.",
+    "meaning": "Každé místo má své vlastní zvyklosti.",
+    "explanation": "Co je doma samozřejmé, může být jinde nezdvořilé — a naopak. Přísloví učí nesoudit cizí zvyky podle vlastních měřítek, ale nejdřív jim porozumět.",
+    "example_usage": "„V Japonsku ho překvapilo, že se spropitné nedává vůbec. Jiný kraj, jiný mrav.“",
+    "origin": "Evropské přísloví z latinského „quot regiones, tot mores“; v češtině zlidovělé.",
+    "concepts": [{ "cs": "Přizpůsobení", "en": "Adaptation" }, { "cs": "Zkušenost", "en": "Experience" }]
+  },
+  {
+    "language": "en",
+    "text": "So many countries, so many customs.",
+    "meaning": "Every place has its own way of doing things.",
+    "explanation": "What is ordinary at home may be rude elsewhere, and the other way round. The proverb teaches you not to judge foreign habits by your own yardstick, but to understand them first.",
+    "example_usage": "“In Japan he was startled to find that tipping isn't done at all. So many countries, so many customs.”",
+    "origin": "From the Latin “quot regiones, tot mores”; attested in English since the 16th century.",
+    "concepts": [{ "cs": "Přizpůsobení", "en": "Adaptation" }, { "cs": "Zkušenost", "en": "Experience" }]
+  },
+  {
+    "language": "cs",
+    "text": "Řekni mi, kdo jsou tví přátelé, a já ti řeknu, kdo jsi ty.",
+    "meaning": "Člověka poznáš podle společnosti, kterou vyhledává.",
+    "explanation": "Přátele si vybíráme podle toho, co sami ceníme — a jejich vliv nás pak dál utváří. Přísloví nabízí spolehlivé měřítko charakteru tam, kde slova nestačí.",
+    "example_usage": "„Chodí výhradně s lidmi, kteří pomáhají v útulku. Řekni mi, kdo jsou tví přátelé, a já ti řeknu, kdo jsi ty.“",
+    "origin": "Ze španělského „Dime con quién andas, y te diré quién eres“, proslaveného Cervantesovým Donem Quijotem (1615).",
+    "concepts": ["Přátelství", { "cs": "Pověst", "en": "Reputation" }]
+  },
+  {
+    "language": "en",
+    "text": "Tell me what company you keep and I will tell you who you are.",
+    "meaning": "A person is known by the company they choose.",
+    "explanation": "We pick friends by what we value — and their influence then shapes us further. The proverb offers a reliable measure of character where words fall short.",
+    "example_usage": "“All her friends volunteer at the shelter too. Tell me what company you keep and I will tell you who you are.”",
+    "origin": "From the Spanish “Dime con quién andas, y te diré quién eres”, made famous by Cervantes's Don Quixote (1615).",
+    "concepts": ["Přátelství", { "cs": "Pověst", "en": "Reputation" }]
+  },
+  {
+    "language": "cs",
+    "text": "Chléb padne vždy namazanou stranou dolů.",
+    "meaning": "Když se něco nepovede, pokazí se to tím nejnepříjemnějším způsobem.",
+    "explanation": "Smolné události jako by si vybíraly nejhorší možnou variantu. Přísloví je žertovným povzdechem nad smůlou — a tichou radou počítat i s tou nejotravnější možností.",
+    "example_usage": "„Upadl mu telefon a dopadl přesně displejem na dlažbu. Chléb padne vždy namazanou stranou dolů.“",
+    "origin": "Anglické rčení doložené od 19. století; zlidovělo jako lidová obdoba Murphyho zákona.",
+    "concepts": [{ "cs": "Štěstí", "en": "Luck" }, { "cs": "Zkušenost", "en": "Experience" }]
+  },
+  {
+    "language": "en",
+    "text": "The bread never falls but on its buttered side.",
+    "meaning": "When something goes wrong, it goes wrong in the most annoying way possible.",
+    "explanation": "Bad luck seems to pick the worst available option every time. The proverb is a wry sigh at misfortune — and quiet advice to expect the most irritating outcome.",
+    "example_usage": "“He dropped his phone and it landed screen-first on the pavement. The bread never falls but on its buttered side.”",
+    "origin": "English saying attested since the 19th century, a folk forerunner of Murphy's law.",
+    "concepts": [{ "cs": "Štěstí", "en": "Luck" }, { "cs": "Zkušenost", "en": "Experience" }]
+  },
+  {
+    "language": "cs",
+    "text": "Pod svícnem bývá největší tma.",
+    "meaning": "Nejméně víme o tom, co se děje přímo u nás.",
+    "explanation": "Svíce osvětluje dálku, ale vlastní patu nechává ve stínu. Přísloví vystihuje slepotu vůči blízkému — problémy doma či ve vlastní firmě si všimneme nejpozději.",
+    "example_usage": "„Roky školil firmy o kybernetické bezpečnosti a vlastní účet měl bez dvoufázového ověření. Pod svícnem bývá největší tma.“",
+    "origin": "Evropské přísloví doložené v mnoha jazycích; v češtině zlidovělé z lidové tradice.",
+    "concepts": ["Zdání", { "cs": "Zkušenost", "en": "Experience" }]
+  },
+  {
+    "language": "en",
+    "text": "The darkest place is under the candlestick.",
+    "meaning": "We know least about what happens right under our noses.",
+    "explanation": "A candle lights the distance but leaves its own base in shadow. The proverb captures blindness to the near at hand — trouble at home or in one's own firm is noticed last.",
+    "example_usage": "“He taught cybersecurity for years and never enabled two-factor on his own account. The darkest place is under the candlestick.”",
+    "origin": "A European proverb found in many languages; attested in English since the 17th century.",
+    "concepts": ["Zdání", { "cs": "Zkušenost", "en": "Experience" }]
+  },
+  {
+    "language": "cs",
+    "text": "Kdo drbe s tebou, bude drbat i tebe.",
+    "meaning": "Kdo před tebou pomlouvá druhé, pomluví i tebe.",
+    "explanation": "Ochota mluvit o nepřítomných se nezastaví u jednoho člověka — je to povahový rys, ne jednorázová výjimka. Přísloví radí být ostražitý vůči tomu, kdo nás zásobuje klepy.",
+    "example_usage": "„Vyprávěla mi o všech kolegyních — a mně pak došlo, že o mně určitě mluví taky. Kdo drbe s tebou, bude drbat i tebe.“",
+    "origin": "Přísloví španělského původu, zapsané v anglických sbírkách od 17. století.",
+    "concepts": [{ "cs": "Řeč", "en": "Speech" }, "Přátelství"]
+  },
+  {
+    "language": "en",
+    "text": "Who chatters to you will chatter of you.",
+    "meaning": "Whoever gossips to you about others will gossip about you.",
+    "explanation": "A willingness to talk about the absent does not stop at one person — it is a trait, not a one-off exception. The proverb advises wariness toward anyone who supplies you with gossip.",
+    "example_usage": "“She told me everything about our colleagues, and then it hit me that she surely talks about me too. Who chatters to you will chatter of you.”",
+    "origin": "A proverb of Spanish origin, recorded in English collections since the 17th century.",
+    "concepts": [{ "cs": "Řeč", "en": "Speech" }, "Přátelství"]
+  },
+  {
+    "language": "cs",
+    "text": "Starého psa novým kouskům nenaučíš.",
+    "meaning": "Zaběhnuté návyky se v pozdním věku mění jen těžko.",
+    "explanation": "Po letech opakování se způsoby stanou druhou přirozeností a učit se jinak stojí nesrovnatelně víc sil. Přísloví to konstatuje — ale bývá i pohodlnou výmluvou.",
+    "example_usage": "„Nabídli mu školení na nový systém a on zůstal u svého sešitu. Starého psa novým kouskům nenaučíš.“",
+    "origin": "Anglické přísloví doložené ve sbírce Nathana Baileyho Divers Proverbs (1721); v češtině zdomácnělé.",
+    "concepts": [{ "cs": "Zvyk", "en": "Habit" }, "Čas"]
+  },
+  {
+    "language": "en",
+    "text": "You can't teach an old dog new tricks.",
+    "meaning": "Settled habits are very hard to change late in life.",
+    "explanation": "After years of repetition, ways become second nature and relearning costs incomparably more effort. The proverb states this plainly — though it also serves as a convenient excuse.",
+    "example_usage": "“They offered him training on the new system and he stuck to his paper ledger. You can't teach an old dog new tricks.”",
+    "origin": "Recorded in Nathan Bailey's Divers Proverbs (1721), from the older form “an old dog will learn no tricks”.",
+    "concepts": [{ "cs": "Zvyk", "en": "Habit" }, "Čas"]
+  },
+  {
+    "language": "en",
+    "text": "A fish rots from the head down.",
+    "meaning": "An organisation's decay begins with its leadership.",
+    "explanation": "What is rotten at the top seeps downward. The proverb looks for the cause of decline where the power and responsibility sit — at the head, not in the body.",
+    "example_usage": "“The directors were expensing holidays, so nobody was surprised when the warehouse started losing stock. A fish rots from the head down.”",
+    "origin": "A Greek saying recorded by Erasmus in his Adagia; proverbial in English since the 16th century.",
+    "concepts": [{ "cs": "Odpovědnost", "en": "Responsibility" }, "Důsledky"]
+  },
+  {
+    "language": "en",
+    "text": "A lie has no legs.",
+    "meaning": "A lie cannot travel far before it collapses.",
+    "explanation": "Falsehood has nothing to stand on, so it needs constant propping up until it finally gives way. The proverb warns that lying is a short-term strategy with a certain end.",
+    "example_usage": "“He claimed he'd been at the conference until someone posted a photo of him at the match. A lie has no legs.”",
+    "origin": "English saying attested since the 17th century, often in the fuller form “a lie has no legs, but a scandal has wings”.",
+    "concepts": [{ "cs": "Poctivost", "en": "Honesty" }, "Důsledky"]
+  },
+  {
+    "language": "en",
+    "text": "First come, first served.",
+    "meaning": "Those who arrive first get served first.",
+    "explanation": "The fairest rule where goods are scarce is the simplest one: order of arrival. The proverb both states the custom and rewards promptness.",
+    "example_usage": "“There are twenty places on the course and no reservations — first come, first served.”",
+    "origin": "From the medieval milling rule, as in Chaucer's “whoso first cometh to the mille, first grynt” (14th century).",
+    "concepts": ["Píle", "Čas"]
+  },
+  {
+    "language": "en",
+    "text": "No rose without a thorn.",
+    "meaning": "Nothing beautiful comes without a drawback.",
+    "explanation": "Beauty and pain grow on a single stem. The proverb reconciles us to the fact that everything valuable — love, work, success — carries its thorns as well.",
+    "example_usage": "“The dream job abroad also meant missing every family birthday. No rose without a thorn.”",
+    "origin": "A medieval European proverb from the Latin “nulla rosa sine spinis”, with roots in Persian poetry.",
+    "concepts": ["Spokojenost", { "cs": "Zkušenost", "en": "Experience" }]
+  },
+  {
+    "language": "en",
+    "text": "Patience and time overcome all things.",
+    "meaning": "Steady endurance achieves what force cannot.",
+    "explanation": "Some obstacles yield to no amount of strength, only to persistence applied over time. The proverb recommends waiting and working rather than forcing.",
+    "example_usage": "“It took her four years of appeals, but the ruling was finally overturned. Patience and time overcome all things.”",
+    "origin": "From La Fontaine's fable line “patience et longueur de temps font plus que force ni que rage” (17th century).",
+    "concepts": ["Trpělivost", "Spokojenost"]
+  },
+  {
+    "language": "en",
+    "text": "The pitcher goes so often to the well that it is broken at last.",
+    "meaning": "Repeated risk-taking eventually ends badly.",
+    "explanation": "What worked a hundred times need not work the hundred-and-first, and wear accumulates unseen. The proverb warns that getting away with a risk is only ever temporary.",
+    "example_usage": "“He drove home after a drink for years until the night he lost his licence. The pitcher goes so often to the well that it is broken at last.”",
+    "origin": "A medieval European proverb, attested in English since the 14th century (John Gower).",
+    "concepts": ["Důsledky", "Opatrnost"]
+  },
+  {
+    "language": "cs",
+    "text": "Kdo si počká, ten se dočká.",
+    "meaning": "Trpělivé čekání se nakonec vyplatí.",
+    "explanation": "Některé věci nelze uspěchat — zrají vlastním tempem a přijdou samy, když je čas. Přísloví povzbuzuje k trpělivosti tam, kde netrpělivost nic neurychlí.",
+    "example_usage": "„Tři roky byla na pořadníku a byt nakonec dostala. Kdo si počká, ten se dočká.“",
+    "origin": "České lidové přísloví s obdobami po celé Evropě.",
+    "concepts": ["Trpělivost", "Spokojenost"]
+  },
+  {
+    "language": "cs",
+    "text": "Ranní ptáče dál doskáče.",
+    "meaning": "Kdo vstává a jedná brzy, dosáhne víc.",
+    "explanation": "Ráno patří tomu, kdo je vzhůru — má klid, náskok i volné pole. Přísloví chválí ranní píli jako tichou výhodu, která se za den nastřádá.",
+    "example_usage": "„Chodí do dílny v šest a v poledne má hotovo, co ostatní stíhají do večera. Ranní ptáče dál doskáče.“",
+    "origin": "České lidové přísloví; obdobu o ranním ptáku zná i angličtina od 17. století.",
+    "concepts": ["Píle", "Čas"]
   }
 ]
+

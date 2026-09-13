@@ -1,4 +1,4 @@
-# Proverbia — a digital library of timeless wisdom
+# Proverbarium — a digital library of timeless wisdom
 
 A premium web application for browsing and searching proverbs, with full
 Czech/English internationalization and a Material Design 3 inspired design
